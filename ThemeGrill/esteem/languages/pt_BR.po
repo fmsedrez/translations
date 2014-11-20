@@ -249,7 +249,7 @@ msgstr ""
 
 #: inc/functions.php:257
 msgid "WordPress"
-msgstr ""
+msgstr "WordPress"
 
 #: inc/functions.php:259
 msgid "ThemeGrill"
@@ -268,12 +268,12 @@ msgstr ""
 #: inc/functions.php:261
 #, php-format
 msgid "Theme: %1$s by %2$s."
-msgstr ""
+msgstr "Tema: %1$s por %2$s."
 
 #: inc/header-functions.php:47
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "P&aacute;agina %s"
 
 #: inc/header-functions.php:141
 #, php-format
@@ -329,35 +329,35 @@ msgstr ""
 
 #: inc/widgets/widgets.php:52
 msgid "Footer Sidebar One"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Um"
 
 #: inc/widgets/widgets.php:54
 msgid "Shows widgets at footer sidebar one."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; um."
 
 #: inc/widgets/widgets.php:63
 msgid "Footer Sidebar Two"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Dois"
 
 #: inc/widgets/widgets.php:65
 msgid "Shows widgets at footer sidebar two."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; dois."
 
 #: inc/widgets/widgets.php:74
 msgid "Footer Sidebar Three"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Tr&ecirc;s"
 
 #: inc/widgets/widgets.php:76
 msgid "Shows widgets at footer sidebar three."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; tr&ecirc;s."
 
 #: inc/widgets/widgets.php:85
 msgid "Contact Page Sidebar"
-msgstr ""
+msgstr "Barra Lateral da P&aacute;gina de Contato"
 
 #: inc/widgets/widgets.php:87
 msgid "Shows widgets on Contact Page Template."
-msgstr ""
+msgstr "Mostra Widgets no Modelo da P&aacute;gina de Contato"
 
 #: inc/widgets/widgets.php:108
 msgid "Display Services( Business Layout )"
@@ -637,7 +637,7 @@ msgstr ""
 
 #: options.php:185
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Personalizado"
 
 #: options.php:186
 msgid "Write your custom css."

@@ -51,19 +51,19 @@ msgstr "&Agrave; parte"
 
 #: archive.php:54 inc/header-functions.php:163
 msgid "Images"
-msgstr ""
+msgstr "Imagens"
 
 #: archive.php:57 inc/header-functions.php:166
 msgid "Videos"
-msgstr ""
+msgstr "V&iacute;deos"
 
 #: archive.php:60 inc/header-functions.php:169
 msgid "Quotes"
-msgstr ""
+msgstr "Cita&ccedil;&otilde;es"
 
 #: archive.php:63 inc/header-functions.php:172
 msgid "Links"
-msgstr ""
+msgstr "Links"
 
 #: archive.php:66 inc/header-functions.php:175 sidebar-left.php:29
 #: sidebar.php:29
@@ -286,7 +286,7 @@ msgstr "Editar"
 
 #: inc/functions.php:347
 msgid "Post navigation"
-msgstr ""
+msgstr "Navega&ccedil;&atilde;o de Postagem"
 
 #: inc/functions.php:351 navigation.php:44
 msgid "&larr;"
@@ -298,15 +298,15 @@ msgstr ""
 
 #: inc/functions.php:357
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas"
 
 #: inc/functions.php:361
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Postagens mais recentes <span class=\"meta-nav\">&rarr;</span>"
 
 #: inc/functions.php:387
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: inc/functions.php:387
 msgid "(Edit)"
@@ -314,24 +314,24 @@ msgstr "(Editar)"
 
 #: inc/functions.php:402
 msgid "Post author"
-msgstr ""
+msgstr "Autor da postagem"
 
 #: inc/functions.php:405
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s em %2$s"
 
 #: inc/functions.php:413
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Seu coment&aacute;rio est&aacute; aguardando modera&ccedil;&atilde;o."
 
 #: inc/functions.php:418
 msgid "Reply"
-msgstr ""
+msgstr "Responder"
 
 #: inc/functions.php:436
 msgid "WordPress"
-msgstr ""
+msgstr "WordPress"
 
 #: inc/functions.php:437
 msgid "ThemeGrill"
@@ -352,7 +352,7 @@ msgstr ""
 #: inc/header-functions.php:47
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "P&aacute;agina %s"
 
 #: inc/header-functions.php:180
 msgid "Page NOT Found"
@@ -377,38 +377,40 @@ msgstr ""
 #: inc/widgets/widgets.php:42
 msgid "Shows widgets in header section just above the main navigation menu."
 msgstr ""
+"Mostra widgets na se&ccedil;ão de cabealho logo acima do menu "
+"de navega&ccedil;&atilde;o principal."
 
 #: inc/widgets/widgets.php:51
 msgid "Contact Page Sidebar"
-msgstr ""
+msgstr "Barra Lateral da P&aacute;gina de Contato"
 
 #: inc/widgets/widgets.php:53
 msgid "Shows widgets on Contact Page Template."
-msgstr ""
+msgstr "Mostra Widgets no Modelo da P&aacute;gina de Contato"
 
 #: inc/widgets/widgets.php:62
 msgid "Error 404 Page Sidebar"
-msgstr ""
+msgstr "Barra Lateral da P&aacute;gina de Erro 404"
 
 #: inc/widgets/widgets.php:64
 msgid "Shows widgets on Error 404 page."
-msgstr ""
+msgstr "Mostar widgets na p&aacute;gina de Erro 404."
 
 #: inc/widgets/widgets.php:73
 msgid "Footer Sidebar One"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Um"
 
 #: inc/widgets/widgets.php:75
 msgid "Shows widgets at footer sidebar one."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; um."
 
 #: inc/widgets/widgets.php:84
 msgid "Footer Sidebar Two"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Dois"
 
 #: inc/widgets/widgets.php:86
 msgid "Shows widgets at footer sidebar two."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; dois."
 
 #: navigation.php:24 navigation.php:36
 msgid "&larr; Previous"
@@ -423,7 +425,7 @@ msgstr ""
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
-"Pronto para publicar o seu primeiro post? <a href=\"%1$s\">Come&ccedil;e "
+"Pronto para publicar a sua primeira postagem? <a href=\"%1$s\">Come&ccedil;e "
 "aqui</a>."
 
 #: no-results.php:22
@@ -586,7 +588,7 @@ msgstr ""
 
 #: options.php:163
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Personalizado"
 
 #: options.php:164
 msgid "Write your custom css."

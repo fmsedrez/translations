@@ -158,7 +158,7 @@ msgstr "Remover"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:71
 msgid "Upgrade your version of WordPress for full media support."
-msgstr "Atualize a sua versão do WordPress para suporte completo de mídia."
+msgstr "Atualize a sua vers&atilde;o do WordPress para suporte completo de m&iacute;dia."
 
 #: inc/admin/options/includes/class-options-media-uploader.php:95
 msgid "View File"
@@ -166,7 +166,7 @@ msgstr "Ver arquivo"
 
 #: inc/admin/options/includes/class-options-sanitization.php:241
 msgid "No Repeat"
-msgstr "Não Repetir"
+msgstr "Ns&atilde;o Repetir"
 
 #: inc/admin/options/includes/class-options-sanitization.php:242
 msgid "Repeat Horizontally"
@@ -230,7 +230,7 @@ msgstr "Normal"
 
 #: inc/admin/options/includes/class-options-sanitization.php:354
 msgid "Italic"
-msgstr "Itálico"
+msgstr "It&aacute;lico"
 
 #: inc/admin/options/includes/class-options-sanitization.php:355
 msgid "Bold"
@@ -238,11 +238,11 @@ msgstr "Negrito"
 
 #: inc/admin/options/includes/class-options-sanitization.php:356
 msgid "Bold Italic"
-msgstr "Negrito Itálico"
+msgstr "Negrito It&aacute;lico"
 
 #: inc/functions.php:341
 msgid "Post navigation"
-msgstr "Navega&ccedil;&atilde;o de Post"
+msgstr "Navega&ccedil;&atilde;o de Postagem"
 
 #: inc/functions.php:345 navigation.php:42
 msgid "&larr;"
@@ -254,7 +254,7 @@ msgstr "&rarr;"
 
 #: inc/functions.php:351
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas "
+msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas"
 
 #: inc/functions.php:355
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
@@ -284,7 +284,7 @@ msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
 
 #: inc/functions.php:407
 msgid "Your comment is awaiting moderation."
-msgstr "Seu coment&aacute;rio est&aacute; esperando a modera&ccedil;&atilde;o."
+msgstr "Seu coment&aacute;rio est&aacute; aguardando modera&ccedil;&atilde;o."
 
 #: inc/functions.php:412
 msgid "Reply"
@@ -348,7 +348,7 @@ msgstr "Imagens"
 
 #: inc/header-functions.php:168
 msgid "Videos"
-msgstr "Vídeos"
+msgstr "V&iacute;deos"
 
 #: inc/header-functions.php:171
 msgid "Quotes"
@@ -364,7 +364,7 @@ msgstr "Arquivos"
 
 #: inc/header-functions.php:182
 msgid "Page NOT Found"
-msgstr "Página NÂO Encontrada"
+msgstr "P&aacute;gina N&Atilde;O Encontrada"
 
 #: inc/header-functions.php:185
 msgid "Search Results"
@@ -372,7 +372,7 @@ msgstr "Resultados da Pesquisa"
 
 #: inc/header-functions.php:218
 msgid "You are here:"
-msgstr "Vocês está aqui:"
+msgstr "Voc&ecirc;s est&aacute; aqui:"
 
 #: inc/widgets/widgets.php:20
 msgid "Shows widgets at Right side."
@@ -384,109 +384,126 @@ msgstr "Mostra os widgets no lado esquerdo."
 
 #: inc/widgets/widgets.php:40
 msgid "Header Sidebar"
-msgstr "Barra Lateral do Cabeçalho"
+msgstr "Barra Lateral do Cabe&ccedil;alho"
 
 #: inc/widgets/widgets.php:42
 msgid "Shows widgets in header section just above the main navigation menu."
 msgstr ""
+"Mostra Widgets na Se&ccedil;ão de Cabealho Logo Acima do Menu "
+"de Navega&ccedil;&atilde;o Principal."
 
 #: inc/widgets/widgets.php:51
 msgid "Business Top Sidebar"
-msgstr ""
+msgstr "Barra de Negoc&iacute;os Lateral Superior"
 
 #: inc/widgets/widgets.php:53
 msgid "Shows widgets on Business Page Template Top Section."
 msgstr ""
+"Mostra Widgets no Modelo da P&aacute;gina de Neg&oacute;cios
+"na Seç&atilde;o Superior."
 
 #: inc/widgets/widgets.php:53 inc/widgets/widgets.php:87
 msgid ""
 "Suitable widget: TG: Services, TG: Call To Action Widget, TG: Featured Widget"
 msgstr ""
+"Widget adequado: TG: Servi&ccedil;os, TG: Chamado para widget
+"de a&ccedil;&atilde;o, TG: Widget destacado"
 
 #: inc/widgets/widgets.php:62
 msgid "Business Middle Left Sidebar"
-msgstr ""
+msgstr "Barra de Negoc&iacute;os Lateral Central Esquerda"
 
 #: inc/widgets/widgets.php:64
 msgid "Shows widgets on Business Page Template Middle Section Left Half."
 msgstr ""
+"Mostra Widgets no Modelo da P&aacute;gina de Negoc&iacute;os "
+"na Seç&atilde;o Metade Esquerda"
 
 #: inc/widgets/widgets.php:64 inc/widgets/widgets.php:75
 msgid "Suitable widget: TG: Testimonial, TG: Featured Single Page"
 msgstr ""
+"Widget adequado: TG: Testimonial, "
+"TG: P&aacute;gina &Uacute;nica Destacada"
 
 #: inc/widgets/widgets.php:73
 msgid "Business Middle Right Sidebar"
-msgstr ""
+msgstr "Barra de Negoc&iacute;os Lateral Central Direita"
 
 #: inc/widgets/widgets.php:75
 msgid "Shows widgets on Business Page Template Middle Section Right Half."
 msgstr ""
+"Mostra Widgets no Modelo da P&aacute;gina de Negoc&iacute;os "
+"na Seç&atilde;o Metade Direita"
 
 #: inc/widgets/widgets.php:85
 msgid "Business Bottom Sidebar"
-msgstr ""
+msgstr "Barra de Negoc&iacute;os Lateral Inferior"
 
 #: inc/widgets/widgets.php:87
 msgid "Shows widgets on Business Page Template Bottom Section."
 msgstr ""
+"Mostra Widgets no Modelo da P&aacute;gina de Negoc&iacute;os "
+"na Seç&atilde;o Inferior"
 
 #: inc/widgets/widgets.php:96
 msgid "Contact Page Sidebar"
-msgstr ""
+msgstr "Barra Lateral da P&aacute;gina de Contato"
 
 #: inc/widgets/widgets.php:98
 msgid "Shows widgets on Contact Page Template."
-msgstr ""
+msgstr "Mostra Widgets no Modelo da P&aacute;gina de Contato"
+
 
 #: inc/widgets/widgets.php:107
 msgid "Error 404 Page Sidebar"
-msgstr ""
+msgstr "Barra Lateral da P&aacute;gina de Erro 404"
 
 #: inc/widgets/widgets.php:109
 msgid "Shows widgets on Error 404 page."
-msgstr ""
+msgstr "Mostar widgets na p&aacute;gina de Erro 404."
 
 #: inc/widgets/widgets.php:118
 msgid "Footer Sidebar One"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Um"
 
 #: inc/widgets/widgets.php:120
 msgid "Shows widgets at footer sidebar one."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; um."
 
 #: inc/widgets/widgets.php:129
 msgid "Footer Sidebar Two"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Dois"
 
 #: inc/widgets/widgets.php:131
 msgid "Shows widgets at footer sidebar two."
-msgstr ""
+msgstr "Mostar widgets no rodap&eacute; dois."
 
 #: inc/widgets/widgets.php:140
 msgid "Footer Sidebar Three"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Tr&ecirc;s"
 
 #: inc/widgets/widgets.php:142
 msgid "Shows widgets at footer sidebar three."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; tr&ecirc;s."
 
 #: inc/widgets/widgets.php:151
 msgid "Footer Sidebar Four"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Quatro"
 
 #: inc/widgets/widgets.php:153
 msgid "Shows widgets at footer sidebar four."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; quatro."
 
 #: inc/widgets/widgets.php:176
 msgid "Display Featured Single Page"
-msgstr ""
+msgstr "Exibe P&aacute;gina Destacada &Uacute;nica"
 
 #: inc/widgets/widgets.php:187
 msgid ""
 "Suitable for Home Top Sidebar, Home Bottom Left Sidebar and Side Sidbar."
 msgstr ""
+"Adequado para Barra Superior da Home, Barra Inferior Esquerda da Home e "
+"Barra Lateral."
 
 #: inc/widgets/widgets.php:190 inc/widgets/widgets.php:522
 #: inc/widgets/widgets.php:567
@@ -601,7 +618,7 @@ msgstr ""
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
-"Pronto para publicar o seu primeiro post? <a href=\"%1$s\">Come&ccedil;e "
+"Pronto para publicar a sua primeira postagem? <a href=\"%1$s\">Come&ccedil;e "
 "aqui</a>."
 
 #: no-results.php:22
@@ -800,7 +817,7 @@ msgstr ""
 
 #: options.php:186
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Personalizado"
 
 #: options.php:187
 msgid "Write your custom css."
