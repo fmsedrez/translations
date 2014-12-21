@@ -93,7 +93,7 @@ msgstr "Coment&aacute;rios est&atilde;o desabilitados."
 #: content-blog-large-image.php:37 content-blog-small-image.php:38
 #: content.php:42 inc/widgets/widgets.php:213
 msgid "Read more"
-msgstr ""
+msgstr "Leia mais"
 
 #: content-page.php:24 content-single.php:27
 msgid "Pages:"
@@ -121,11 +121,11 @@ msgstr ""
 
 #: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Barra Lateral Direita"
 
 #: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Barra Lateral Esquerda"
 
 #: inc/admin/meta-boxes.php:43
 msgid "No Sidebar Full Width"

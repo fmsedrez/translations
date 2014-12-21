@@ -57,7 +57,7 @@ msgstr "&Agrave; parte"
 
 #: ../archive.php:53
 msgid "Images"
-msgstr ""
+msgstr "Imagens"
 
 #: ../archive.php:56
 msgid "Videos"
@@ -121,123 +121,130 @@ msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
 msgstr ""
+"Parece que n&atilde;o podemos encontrar o que voc&ecirc; est&aacute; "
+"procurando. Talvez uma pesquisa possa ajudar."
 
 #: ../content-page.php:20 ../content-single.php:24 ../content.php:29
 msgid "Pages:"
-msgstr ""
+msgstr "P&aacute;ginas:"
 
 #: ../content-page.php:25 ../content-single.php:57 ../content.php:63
 msgid "Edit"
-msgstr ""
+msgstr "Editar"
 
 #: ../content-single.php:34 ../content-single.php:44 ../content.php:40
 #: ../content.php:50
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: ../content-single.php:54 ../content.php:60
 msgid "Leave a comment"
-msgstr ""
+msgstr "Deixe um coment&aacute;rio"
 
 #: ../content-single.php:54 ../content.php:60
 msgid "1 Comment"
-msgstr ""
+msgstr "1 Coment&aacute;rio"
 
 #: ../content-single.php:54 ../content.php:60
 msgid "% Comments"
-msgstr ""
+msgstr "% Coment&aacute;rios"
 
 #: ../content.php:26
 msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Leia mais <span class=\"meta-nav\">&rarr;</span>"
 
 #: ../front-page.php:40
 msgid "Read more"
-msgstr ""
+msgstr "Leia mais"
 
 #: ../functions.php:48
 msgid "Primary Menu"
-msgstr ""
+msgstr "Menu principal"
 
 #: ../functions.php:71 ../inc/customizer.php:249 ../inc/meta-box.php:33
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Barra Lateral Direita"
 
 #: ../functions.php:80 ../inc/customizer.php:250 ../inc/meta-box.php:38
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Barra Lateral Esquerda"
 
 #: ../functions.php:90
 msgid "Footer Sidebar One"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Um"
 
 #: ../functions.php:92
 msgid "Shows widgets at footer sidebar one."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; um."
 
 #: ../functions.php:101
 msgid "Footer Sidebar Two"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Dois"
 
 #: ../functions.php:103
 msgid "Shows widgets at footer sidebar two."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; dois."
 
 #: ../functions.php:112
 msgid "Footer Sidebar Three"
-msgstr ""
+msgstr "Barra de Rodap&eacute; Tr&ecirc;s"
 
 #: ../functions.php:114
 msgid "Shows widgets at footer sidebar three."
-msgstr ""
+msgstr "Mostar widgets na barra de rodap&eacute; tr&ecirc;s."
 
 #: ../header.php:45
 msgid "Skip to content"
-msgstr ""
+msgstr "Pular para o conte&uacute;do"
 
 #: ../inc/custom-header.php:41
 msgid "Header Image One"
-msgstr ""
+msgstr "Imagem um do cabe&ccedil;alho"
 
 #: ../inc/customizer.php:38
 msgid "Site Title & Tagline"
-msgstr ""
+msgstr "T&iacute;tulo do Site & Tagline"
 
-#: ../inc/customizer.php:40
+#: ../inc/customizer.php:40 #TODO #ASK Disply
 msgid ""
 "Please select the Header Disply Type 2 in Header Options Section to show the "
 "tagline"
 msgstr ""
+"Por favor selecione o Cabe&ccedil;alho do Tipo 2 em Op&ccedil;&otilde;es de " "Cabe&ccedil;alho para mostrar a Tagline"
 
 #: ../inc/customizer.php:65
 msgid "Apply responsiveness to header image"
-msgstr ""
+msgstr "Aplicar responsividade &agrave; imagem do cabe&ccedil;alho"
 
 #: ../inc/customizer.php:86
 msgid "Primary Color"
-msgstr ""
+msgstr "Cor principal"
 
 #: ../inc/customizer.php:97
 msgid "Custom CSS"
-msgstr ""
+msgstr "CSS Personalizado"
 
 #: ../inc/customizer.php:116
 msgid "Add your custom css here and design live! (for advanced users)"
 msgstr ""
+"Adicione seu css personalizado e fa&ccedil;a o design em tempo real! (para "
+"usu&aacute;rios avan&ccedil;ados)"
 
 #: ../inc/customizer.php:127
 msgid "Front Page Featured Section"
-msgstr ""
+msgstr "Se&ccedil;&atilde;o de p&aacute;gina de capa destacada"
 
 #: ../inc/customizer.php:129
 msgid "Note:"
-msgstr ""
+msgstr "Nota:"
 
-#: ../inc/customizer.php:129
+#: ../inc/customizer.php:129 #BREAK #FIX #CHARSET #SEÇÂO
 msgid ""
 "If featured image is set for the following selected pages then the same "
 "image will appear in the featured section for the respective pages."
 msgstr ""
+"Se a imagem destacada está configurada para as páginas selecionadas, então"
+"a mesma imagem aparecerá na seção destacada para as respectivas paginas."
 
 #: ../inc/customizer.php:165
 msgid "Featured page 1"

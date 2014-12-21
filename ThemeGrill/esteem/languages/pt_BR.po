@@ -105,11 +105,11 @@ msgstr ""
 
 #: inc/admin/meta-boxes.php:64 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
-msgstr ""
+msgstr "Barra Lateral Direita"
 
 #: inc/admin/meta-boxes.php:68 inc/widgets/widgets.php:29
 msgid "Left Sidebar"
-msgstr ""
+msgstr "Barra Lateral Esquerda"
 
 #: inc/admin/meta-boxes.php:72
 msgid "No sidebar full width"
