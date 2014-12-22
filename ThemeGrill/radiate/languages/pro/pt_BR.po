@@ -291,99 +291,111 @@ msgstr ""
 "<strong>Nota:</strong> A altura recomendada para a imagem de logo do "
 "cabe&ccedil;alho &eacute; de 68px."
 
-#: ../inc/customizer.php:276 #BREAK
+#: ../inc/customizer.php:276
 msgid "Header Display Type"
-msgstr ""
+msgstr "Tipo de Visualiza&ccedil;&atilde;o do Cabe&ccedil;alho"
 
 #: ../inc/customizer.php:279
 msgid "Header Display Type 1/ Default"
-msgstr ""
+msgstr "Visualiza&ccedil;&atilde;o do Cabe&ccedil;alho Tipo 1/ Padr&atilde;o"
 
 #: ../inc/customizer.php:280
 msgid "Header Display Type 2 - Supports header logo image plus tagline"
-msgstr ""
+msgstr "Visualiza&ccedil;&atilde;o do Cabe&ccedil;alho Tipo 2 - Suporta "
+"imagem de logo do cabe&ccedil;alho e tagline"
 
 #: ../inc/customizer.php:297
 msgid "Header Logo Image Upload"
-msgstr ""
+msgstr "Carregar Imagem de Logo do Cabe&ccedil;alho"
 
 #: ../inc/customizer.php:308
 msgid "Footer Editor"
-msgstr ""
+msgstr "Editor de Rodap&eacute;"
 
 #: ../inc/customizer.php:310
 msgid ""
 "[wp-link] - shortcode for wordpress.org [tg-link] - shortcode for themegrill."
 "com"
 msgstr ""
+"[wp-link] - atalho para wordpress.org [tg-link] - atalho para themegrill."
+"com"
 
 #: ../inc/customizer.php:316
 msgid "Proudly powered by [wp-link] | Theme: Radiate Pro by [tg-link]."
 msgstr ""
+"Orgulhosamente desenvolvido por [wp-link] | Tema: Radiate Pro por "
+"[tg-link]."
 
-#: ../inc/customizer.php:325
+#: ../inc/customizer.php:325 #TODO
 msgid "Copyright Text"
 msgstr ""
 
 #: ../inc/customizer.php:344
 msgid "Slider Options"
-msgstr ""
+msgstr "Op&ccedil;&otilde;es do Painel Slides"
 
 #: ../inc/customizer.php:346
 msgid "Note"
-msgstr ""
+msgstr "Nota"
 
 #: ../inc/customizer.php:346
 msgid "1. If the slider is enabled then this will replace the header image."
 msgstr ""
+"1. Se o painel de slides estiver habilitado, então ele substituir&eacute; a "
+"imagem de cabe&ccedil;alho."
 
-#: ../inc/customizer.php:346
+#: ../inc/customizer.php:346 #TODO #ASK #2.If #ACENTO #EIS
 msgid ""
 "2.If you need more or less number of slides, input the new number below, "
 "click on Save and Publish button and refresh the browser."
 msgstr ""
+"2. Se você precisa de um n&uacute;mero maior ou menor de slides no painel, "
+"coloque o novo n&uacute;mero abaixo, clique no bot&atilde; Salvar e Publicar "
+"e atualize a p&aacute;gina no navegador."
 
 #: ../inc/customizer.php:346
 msgid "3. The recommended size for the slider image is 1500 x 500 pixels."
 msgstr ""
+"3. O tamanho recomendado da imagem para o painel de slides &eacute; de "
+"1500 X 500 pixels."
 
 #: ../inc/customizer.php:359
 msgid "Enable the slider"
-msgstr ""
+msgstr "Habilitar painel de slides"
 
 #: ../inc/customizer.php:375
 msgid "Show slider on all pages"
-msgstr ""
+msgstr "Mostrar painel de slides em todas as p&aacute;ginas"
 
 #: ../inc/customizer.php:392 ../inc/customizer.php:408
 msgid "Number of Slides"
-msgstr ""
+msgstr "N&uacute;mero de Slides"
 
 #: ../inc/customizer.php:428
 msgid "Slide Image Number "
-msgstr ""
+msgstr "N&uacute;mero da Imagem do Slide "
 
 #: ../inc/customizer.php:464
 msgid "Slide Text "
-msgstr ""
+msgstr "Texto do Slide "
 
 #: ../inc/customizer.php:482
 msgid "Button Text "
-msgstr ""
+msgstr "Texto do bot&atilde;o "
 
 #: ../inc/customizer.php:500
 msgid "Redirect Link "
-msgstr ""
+msgstr "Link de redirecionamento"
 
 #: ../inc/customizer.php:517
 msgid "Open this slide link in new tab"
-msgstr ""
+msgstr "Abrir o link desse slide em uma nova aba."
 
 #: ../inc/customizer.php:538
 msgid "Menu Text Color"
-msgstr ""
+msgstr "Cor do Texto do Menu"
 
-#: ../inc/customizer.php:543
+#: ../inc/customizer.php:543 #BREAK
 msgid "Header Background Color"
 msgstr ""
 
