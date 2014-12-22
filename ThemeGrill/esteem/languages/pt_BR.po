@@ -113,11 +113,11 @@ msgstr "Barra Lateral Esquerda"
 
 #: inc/admin/meta-boxes.php:72
 msgid "No sidebar full width"
-msgstr ""
+msgstr "Largura Total Sem Barra Lateral"
 
 #: inc/admin/meta-boxes.php:76
 msgid "No sidebar content Centered"
-msgstr ""
+msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
 
 #: inc/admin/meta-boxes.php:86
 msgid "fontawesome Icons"

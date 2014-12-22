@@ -210,7 +210,8 @@ msgid ""
 "Please select the Header Disply Type 2 in Header Options Section to show the "
 "tagline"
 msgstr ""
-"Por favor selecione o Cabe&ccedil;alho do Tipo 2 em Op&ccedil;&otilde;es de " "Cabe&ccedil;alho para mostrar a Tagline"
+"Por favor selecione o Cabe&ccedil;alho do Tipo 2 em Op&ccedil;&otilde;es de "
+"Cabe&ccedil;alho para mostrar a Tagline"
 
 #: ../inc/customizer.php:65
 msgid "Apply responsiveness to header image"
@@ -238,56 +239,59 @@ msgstr "Se&ccedil;&atilde;o de p&aacute;gina de capa destacada"
 msgid "Note:"
 msgstr "Nota:"
 
-#: ../inc/customizer.php:129 #BREAK #FIX #CHARSET #SEÇÂO
+#: ../inc/customizer.php:129
 msgid ""
 "If featured image is set for the following selected pages then the same "
 "image will appear in the featured section for the respective pages."
 msgstr ""
-"Se a imagem destacada está configurada para as páginas selecionadas, então"
-"a mesma imagem aparecerá na seção destacada para as respectivas paginas."
+"Se a imagem destacada est&aacute; configurada para as p&aacute;ginas "
+"selecionadas, ent&atilde;o a mesma imagem aparecer&aacute; na "
+"se&ccedil;&atilde;o destacada para as respectivas p&aacute;ginas."
 
 #: ../inc/customizer.php:165
 msgid "Featured page 1"
-msgstr ""
+msgstr "P&aacute;gina Destacada 1"
 
 #: ../inc/customizer.php:174
 msgid "Featured page 2"
-msgstr ""
+msgstr "P&aacute;gina Destacada 2"
 
 #: ../inc/customizer.php:183
 msgid "Featured page 3"
-msgstr ""
+msgstr "P&aacute;gina Destacada 3"
 
 #: ../inc/customizer.php:194
 msgid "Featured page "
-msgstr ""
+msgstr "P&aacute;gina Destacada"
 
 #: ../inc/customizer.php:232
 msgid "Layout Settings Section"
-msgstr ""
+msgstr "Se&ccedil;&atilde;o de Configura&ccedil;&otilde;es do Laioute"
 
 #: ../inc/customizer.php:246
 msgid "Default Layout Option"
-msgstr ""
+msgstr "Op&ccedil;&atilde;o Padr&atilde;o de Laioute"
 
 #: ../inc/customizer.php:251
 msgid "No Sidebar Content Full Width"
-msgstr ""
+msgstr "Conte&uacute;do em Largura Total Sem Barra Lateral"
 
 #: ../inc/customizer.php:252 ../inc/meta-box.php:48
 msgid "No Sidebar Content Centered"
-msgstr ""
+msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
 
 #: ../inc/customizer.php:261
 msgid "Header Options"
-msgstr ""
+msgstr "Op&ccedil;&otilde;es de Cabe&ccedil;alho"
 
 #: ../inc/customizer.php:263
 msgid ""
 "<strong>Note:</strong> The recommended height for header logo image is 68px."
 msgstr ""
+"<strong>Nota:</strong> A altura recomendada para a imagem de logo do "
+"cabe&ccedil;alho &eacute; de 68px."
 
-#: ../inc/customizer.php:276
+#: ../inc/customizer.php:276 #BREAK
 msgid "Header Display Type"
 msgstr ""
 
@@ -466,7 +470,7 @@ msgstr ""
 
 #: ../inc/meta-box.php:43
 msgid "No Sidebar Full Width"
-msgstr ""
+msgstr "Largura Total Sem Barra Lateral"
 
 #: ../inc/template-tags.php:25
 msgid "Posts navigation"

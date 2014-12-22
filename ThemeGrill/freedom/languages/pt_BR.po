@@ -121,11 +121,11 @@ msgstr "Barra Lateral Esquerda"
 
 #: inc/admin/meta-boxes.php:43
 msgid "No Sidebar Full Width"
-msgstr ""
+msgstr "Largura Total Sem Barra Lateral"
 
 #: inc/admin/meta-boxes.php:48
 msgid "No Sidebar Content Centered"
-msgstr ""
+msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:85
 #: inc/admin/options/includes/class-options-framework-admin.php:86
