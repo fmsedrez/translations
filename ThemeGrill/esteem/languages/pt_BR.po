@@ -89,7 +89,7 @@ msgstr "Pesquisar"
 
 #: inc/admin/meta-boxes.php:21 inc/admin/meta-boxes.php:31
 msgid "Select Layout"
-msgstr ""
+msgstr "Selecionar Leiaute"
 
 #: inc/admin/meta-boxes.php:41
 msgid "Icon class"
@@ -101,7 +101,7 @@ msgstr ""
 
 #: inc/admin/meta-boxes.php:60
 msgid "Default Layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: inc/admin/meta-boxes.php:64 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
@@ -559,7 +559,7 @@ msgstr ""
 
 #: options.php:115
 msgid "Default layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: options.php:116
 msgid ""

@@ -205,13 +205,13 @@ msgstr "Imagem um do cabe&ccedil;alho"
 msgid "Site Title & Tagline"
 msgstr "T&iacute;tulo do Site & Tagline"
 
-#: ../inc/customizer.php:40 #TODO #ASK Disply
+#: ../inc/customizer.php:40
 msgid ""
 "Please select the Header Disply Type 2 in Header Options Section to show the "
 "tagline"
 msgstr ""
 "Por favor selecione o Cabe&ccedil;alho do Tipo 2 em Op&ccedil;&otilde;es de "
-"Cabe&ccedil;alho para mostrar a Tagline"
+"Cabe&ccedil;alho para mostrar a tagline"
 
 #: ../inc/customizer.php:65
 msgid "Apply responsiveness to header image"
@@ -219,7 +219,7 @@ msgstr "Aplicar responsividade &agrave; imagem do cabe&ccedil;alho"
 
 #: ../inc/customizer.php:86
 msgid "Primary Color"
-msgstr "Cor principal"
+msgstr "Cor Principal"
 
 #: ../inc/customizer.php:97
 msgid "Custom CSS"
@@ -266,11 +266,11 @@ msgstr "P&aacute;gina Destacada"
 
 #: ../inc/customizer.php:232
 msgid "Layout Settings Section"
-msgstr "Se&ccedil;&atilde;o de Configura&ccedil;&otilde;es do Laioute"
+msgstr "Se&ccedil;&atilde;o de Configura&ccedil;&otilde;es do Leiaute"
 
 #: ../inc/customizer.php:246
 msgid "Default Layout Option"
-msgstr "Op&ccedil;&atilde;o Padr&atilde;o de Laioute"
+msgstr "Op&ccedil;&atilde;o Padr&atilde;o de Leiaute"
 
 #: ../inc/customizer.php:251
 msgid "No Sidebar Content Full Width"
@@ -326,9 +326,9 @@ msgstr ""
 "Orgulhosamente desenvolvido por [wp-link] | Tema: Radiate Pro por "
 "[tg-link]."
 
-#: ../inc/customizer.php:325 #TODO
+#: ../inc/customizer.php:325
 msgid "Copyright Text"
-msgstr ""
+msgstr "Texto com Direitos de Autor"
 
 #: ../inc/customizer.php:344
 msgid "Slider Options"
@@ -344,7 +344,7 @@ msgstr ""
 "1. Se o painel de slides estiver habilitado, então ele substituir&eacute; a "
 "imagem de cabe&ccedil;alho."
 
-#: ../inc/customizer.php:346 #TODO #ASK #2.If #ACENTO #EIS
+#: ../inc/customizer.php:346
 msgid ""
 "2.If you need more or less number of slides, input the new number below, "
 "click on Save and Publish button and refresh the browser."
@@ -395,90 +395,90 @@ msgstr "Abrir o link desse slide em uma nova aba."
 msgid "Menu Text Color"
 msgstr "Cor do Texto do Menu"
 
-#: ../inc/customizer.php:543 #BREAK
+#: ../inc/customizer.php:543
 msgid "Header Background Color"
-msgstr ""
+msgstr "Cor de Fundo do Cabe&ccedil;alho"
 
 #: ../inc/customizer.php:548
 msgid "Page Post Title Color"
-msgstr ""
+msgstr "Cor do T&iacute;tulo da P&aacute;gina de Postagem"
 
 #: ../inc/customizer.php:553
 msgid "Widget Title Color"
-msgstr ""
+msgstr "Cor do T&iacute;tulo do Widget"
 
 #: ../inc/customizer.php:558
 msgid "Content Color"
-msgstr ""
+msgstr "Cor do Conte&uacute;do"
 
 #: ../inc/customizer.php:563
 msgid "Content Background Color"
-msgstr ""
+msgstr "Cor de Fundo do Conte&uacute;do"
 
 #: ../inc/customizer.php:568
 msgid "Right/Left Widget Background Color"
-msgstr ""
+msgstr "Corde Fundo do Widget Direito/Esquerdo"
 
 #: ../inc/customizer.php:573
 msgid "Post Meta Color"
-msgstr ""
+msgstr "Cor da Meta Postagem"
 
 #: ../inc/customizer.php:578
 msgid "Footer Background Color"
-msgstr ""
+msgstr "Cor de Fundo do Rodap&eacute;"
 
 #: ../inc/customizer.php:583
 msgid "Border Lines Color"
-msgstr ""
+msgstr "Cor das Linhas de Borda"
 
 #: ../inc/customizer.php:588
 msgid "Comments Background Color"
-msgstr ""
+msgstr "Cor de Fundo dos Coment&aacute;rios"
 
 #: ../inc/customizer.php:621
 msgid "Font Family Options"
-msgstr ""
+msgstr "Op&ccedil;&otilde;es de Fam&iacute;lia da Fonte"
 
 #: ../inc/customizer.php:630
 msgid "Site Title"
-msgstr ""
+msgstr "T&iacute;tulo do Site"
 
 #: ../inc/customizer.php:635
 msgid "Site Tagline"
-msgstr ""
+msgstr "Tagline do Site"
 
 #: ../inc/customizer.php:640
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: ../inc/customizer.php:645
 msgid "All Titles"
-msgstr ""
+msgstr "Todos os T&iacute;tulos"
 
 #: ../inc/customizer.php:650
 msgid "Content"
-msgstr ""
+msgstr "Conte&uacute;do"
 
 #: ../inc/extras.php:117
 #, php-format
 msgid "Page %s"
-msgstr ""
+msgstr "P&aacute;agina %s"
 
 #: ../inc/extras.php:196
 msgid "WordPress"
-msgstr ""
+msgstr "WordPress"
 
 #: ../inc/extras.php:203
 msgid "ThemeGrill"
-msgstr ""
+msgstr "ThemeGrill"
 
 #: ../inc/meta-box.php:16 ../inc/meta-box.php:18
 msgid "Select Layout"
-msgstr ""
+msgstr "Selecionar Leiaute"
 
 #: ../inc/meta-box.php:28
 msgid "Default Layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: ../inc/meta-box.php:43
 msgid "No Sidebar Full Width"
@@ -486,75 +486,75 @@ msgstr "Largura Total Sem Barra Lateral"
 
 #: ../inc/template-tags.php:25
 msgid "Posts navigation"
-msgstr ""
+msgstr "Navega&ccedil;&atilde;o de Postagens"
 
 #: ../inc/template-tags.php:29
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas"
 
 #: ../inc/template-tags.php:33
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "Postagens mais recentes <span class=\"meta-nav\">&rarr;</span>"
 
 #: ../inc/template-tags.php:58
 msgid "Post navigation"
-msgstr ""
+msgstr "Navega&ccedil;&atilde;o de postagem"
 
 #: ../inc/template-tags.php:61
 msgid "<span class=\"meta-nav\">&larr;</span> %title"
-msgstr ""
+msgstr "<span class=\"meta-nav\">&larr;</span> %title"
 
 #: ../inc/template-tags.php:62
 msgid "%title <span class=\"meta-nav\">&rarr;</span>"
-msgstr ""
+msgstr "%title <span class=\"meta-nav\">&rarr;</span>"
 
 #: ../inc/template-tags.php:84
 msgid "Pingback:"
-msgstr ""
+msgstr "Pingback:"
 
 #: ../inc/template-tags.php:84
 msgid "(Edit)"
-msgstr ""
+msgstr "(Editar)"
 
 #: ../inc/template-tags.php:99
 msgid "Post author"
-msgstr ""
+msgstr "Autor da postagem"
 
 #: ../inc/template-tags.php:102
 #, php-format
 msgid "%1$s at %2$s"
-msgstr ""
+msgstr "%1$s em %2$s"
 
 #: ../inc/template-tags.php:104
 #, php-format
 msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
-msgstr ""
+msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
 
 #: ../inc/template-tags.php:110
 msgid "Your comment is awaiting moderation."
-msgstr ""
+msgstr "Seu coment&aacute;rio est&aacute; aguardando modera&ccedil;&atilde;o."
 
 #: ../inc/template-tags.php:115
 msgid "Reply"
-msgstr ""
+msgstr "Responder"
 
 #: ../search.php:18
 #, php-format
 msgid "Search Results for: %s"
-msgstr ""
+msgstr "Resultados de pesquisa para: %s"
 
 #: ../searchform.php:12
 msgid "Search for:"
-msgstr ""
+msgstr "Pesquisar por:"
 
 #: ../searchform.php:13
 msgid "Search &hellip;"
-msgstr ""
+msgstr "Pesquisa &hellip;"
 
 #: ../searchform.php:15
 msgid "Search"
-msgstr ""
+msgstr "Pesquisar"
 
 #: ../sidebar-left.php:26 ../sidebar.php:26
 msgid "Meta"
-msgstr ""
+msgstr "Meta"

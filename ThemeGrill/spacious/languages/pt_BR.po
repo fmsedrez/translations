@@ -92,11 +92,11 @@ msgstr "Menu"
 
 #: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
 msgid "Select Layout"
-msgstr "Selecionar leiaute"
+msgstr "Selecionar Leiaute"
 
 #: inc/admin/meta-boxes.php:28
 msgid "Default Layout"
-msgstr "Leiaute padr&atilde;o"
+msgstr "Leiaute Padr&atilde;o"
 
 #: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
@@ -242,7 +242,7 @@ msgstr "Negrito It&aacute;lico"
 
 #: inc/functions.php:341
 msgid "Post navigation"
-msgstr "Navega&ccedil;&atilde;o de Postagem"
+msgstr "Navega&ccedil;&atilde;o de postagem"
 
 #: inc/functions.php:345 navigation.php:42
 msgid "&larr;"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: options.php:102
 msgid "Default layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: options.php:103
 msgid ""

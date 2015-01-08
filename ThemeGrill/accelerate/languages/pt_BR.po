@@ -109,15 +109,15 @@ msgstr ""
 
 #: header.php:93
 msgid "Menu"
-msgstr ""
+msgstr "Menu"
 
 #: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
 msgid "Select Layout"
-msgstr ""
+msgstr "Selecionar Leiaute"
 
 #: inc/admin/meta-boxes.php:28
 msgid "Default Layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
@@ -286,7 +286,7 @@ msgstr "Editar"
 
 #: inc/functions.php:391
 msgid "Post navigation"
-msgstr "Navega&ccedil;&atilde;o de Postagem"
+msgstr "Navega&ccedil;&atilde;o de postagem"
 
 #: inc/functions.php:395 navigation.php:42
 msgid "&larr;"
@@ -314,7 +314,7 @@ msgstr "(Editar)"
 
 #: inc/functions.php:446
 msgid "Post author"
-msgstr ""
+msgstr "Autor da postagem"
 
 #: inc/functions.php:449
 #, php-format
@@ -654,7 +654,7 @@ msgstr ""
 
 #: options.php:108
 msgid "Default layout"
-msgstr ""
+msgstr "Leiaute Padr&atilde;o"
 
 #: options.php:109
 msgid ""

@@ -1,25 +1,24 @@
-# Fernando Sedrez <fernando@fms.eti.br>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: Freedom\n"
 "POT-Creation-Date: 2014-10-21 22:38+0545\n"
-"PO-Revision-Date: 2014-11-19 16:33-0200\n"
-"Last-Translator: Fernando Sedrez <fernando@fms.eti.br>\n"
-"Language-Team: fms.eti.br\n"
-"Language: pt_BR\n"
+"PO-Revision-Date: 2014-10-21 22:38+0545\n"
+"Last-Translator: \n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.1\n"
+"X-Generator: Poedit 1.6.4\n"
 "X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-KeywordsList: __;_e;esc_attr_x;_x;_nx;_ex;esc_attr__;esc_attr_e\n"
 "X-Poedit-SearchPath-0: .\n"
 
 #: 404.php:22
 msgid "Oops! That page can&rsquo;t be found."
-msgstr "Oops! Essa p&aacute;gina n&atilde;o pode ser encontrada."
+msgstr ""
 
 #: 404.php:24
 msgid "It looks like nothing was found at this location. Try the search below."
@@ -28,104 +27,104 @@ msgstr ""
 #: archive.php:34 inc/header-functions.php:143
 #, php-format
 msgid "Author: %s"
-msgstr "Autor: %s"
+msgstr ""
 
 #: archive.php:42 inc/header-functions.php:151
 #, php-format
 msgid "Day: %s"
-msgstr "Dia: %s"
+msgstr ""
 
 #: archive.php:45 inc/header-functions.php:154
 #, php-format
 msgid "Month: %s"
-msgstr "M&ecirc;s: %s"
+msgstr ""
 
 #: archive.php:48 inc/header-functions.php:157
 #, php-format
 msgid "Year: %s"
-msgstr "Ano: %s"
+msgstr ""
 
 #: archive.php:51 inc/header-functions.php:160
 msgid "Asides"
-msgstr "&Agrave; parte"
+msgstr ""
 
 #: archive.php:54 inc/header-functions.php:163
 msgid "Images"
-msgstr "Imagens"
+msgstr ""
 
 #: archive.php:57 inc/header-functions.php:166
 msgid "Videos"
-msgstr "V&iacute;deos"
+msgstr ""
 
 #: archive.php:60 inc/header-functions.php:169
 msgid "Quotes"
-msgstr "Cita&ccedil;&otilde;es"
+msgstr ""
 
 #: archive.php:63 inc/header-functions.php:172
 msgid "Links"
-msgstr "Links"
+msgstr ""
 
 #: archive.php:66 inc/header-functions.php:175 sidebar-left.php:29
 #: sidebar.php:29
 msgid "Archives"
-msgstr "Arquivos"
+msgstr ""
 
 #: comments.php:31
 #, php-format
 msgid "One thought on &ldquo;%2$s&rdquo;"
-msgstr "Um pensamento sobre &ldquo;%2$s&rdquo;"
+msgstr ""
 
 #: comments.php:38 comments.php:55
 msgid "Comment navigation"
-msgstr "Navegar no Coment&aacute;rio"
+msgstr ""
 
 #: comments.php:39 comments.php:56
 msgid "&larr; Older Comments"
-msgstr "&larr; Coment&aacute;rios Mais Antigos"
+msgstr ""
 
 #: comments.php:40 comments.php:57
 msgid "Newer Comments &rarr;"
-msgstr "Coment&aacute;rios Mais Novos &rarr;"
+msgstr ""
 
 #: comments.php:67
 msgid "Comments are closed."
-msgstr "Coment&aacute;rios est&atilde;o desabilitados."
+msgstr ""
 
 #: content-page.php:24 content-single.php:27
 msgid "Pages:"
-msgstr "P&aacute;ginas:"
+msgstr ""
 
 #: content.php:42
 msgid "Read more"
-msgstr "Leia mais"
+msgstr ""
 
 #: header.php:87
 msgid "Menu"
-msgstr "Menu"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:16 inc/admin/meta-boxes.php:18
 msgid "Select Layout"
-msgstr "Selecionar Leiaute"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:28
 msgid "Default Layout"
-msgstr "Leiaute Padr&atilde;o"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:33 inc/widgets/widgets.php:18
 msgid "Right Sidebar"
-msgstr "Barra Lateral Direita"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:38 inc/widgets/widgets.php:29
 msgid "Left Sidebar"
-msgstr "Barra Lateral Esquerda"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:43
 msgid "No Sidebar Full Width"
-msgstr "Largura Total Sem Barra Lateral"
+msgstr ""
 
 #: inc/admin/meta-boxes.php:48
 msgid "No Sidebar Content Centered"
-msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
+msgstr ""
 
 #: inc/admin/options/includes/class-options-framework-admin.php:85
 #: inc/admin/options/includes/class-options-framework-admin.php:86
@@ -253,7 +252,7 @@ msgstr ""
 
 #: inc/functions.php:222 inc/functions.php:238 inc/functions.php:270
 msgid ", "
-msgstr ", "
+msgstr ""
 
 #: inc/functions.php:223 inc/functions.php:271
 #, php-format
@@ -274,19 +273,19 @@ msgstr ""
 
 #: inc/functions.php:242
 msgid "<i class=\"fa fa-comment\"></i> 1 Comment"
-msgstr "<i class=\"fa fa-comment\"></i> 1 Coment&aacute;rio"
+msgstr ""
 
 #: inc/functions.php:242
 msgid "<i class=\"fa fa-comments\"></i> % Comments"
-msgstr "<i class=\"fa fa-comments\"></i> % Coment&aacute;rios"
+msgstr ""
 
 #: inc/functions.php:245
 msgid "Edit"
-msgstr "Editar"
+msgstr ""
 
 #: inc/functions.php:347
 msgid "Post navigation"
-msgstr "Navega&ccedil;&atilde;o de postagem"
+msgstr ""
 
 #: inc/functions.php:351 navigation.php:44
 msgid "&larr;"
@@ -298,40 +297,40 @@ msgstr ""
 
 #: inc/functions.php:357
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
-msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas"
+msgstr ""
 
 #: inc/functions.php:361
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
-msgstr "Postagens mais recentes <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
 
 #: inc/functions.php:387
 msgid "Pingback:"
-msgstr "Pingback:"
+msgstr ""
 
 #: inc/functions.php:387
 msgid "(Edit)"
-msgstr "(Editar)"
+msgstr ""
 
 #: inc/functions.php:402
 msgid "Post author"
-msgstr "Autor da postagem"
+msgstr ""
 
 #: inc/functions.php:405
 #, php-format
 msgid "%1$s at %2$s"
-msgstr "%1$s em %2$s"
+msgstr ""
 
 #: inc/functions.php:413
 msgid "Your comment is awaiting moderation."
-msgstr "Seu coment&aacute;rio est&aacute; aguardando modera&ccedil;&atilde;o."
+msgstr ""
 
 #: inc/functions.php:418
 msgid "Reply"
-msgstr "Responder"
+msgstr ""
 
 #: inc/functions.php:436
 msgid "WordPress"
-msgstr "WordPress"
+msgstr ""
 
 #: inc/functions.php:437
 msgid "ThemeGrill"
@@ -352,7 +351,7 @@ msgstr ""
 #: inc/header-functions.php:47
 #, php-format
 msgid "Page %s"
-msgstr "P&aacute;agina %s"
+msgstr ""
 
 #: inc/header-functions.php:180
 msgid "Page NOT Found"
@@ -377,40 +376,38 @@ msgstr ""
 #: inc/widgets/widgets.php:42
 msgid "Shows widgets in header section just above the main navigation menu."
 msgstr ""
-"Mostra widgets na se&ccedil;ão de cabealho logo acima do menu "
-"de navega&ccedil;&atilde;o principal."
 
 #: inc/widgets/widgets.php:51
 msgid "Contact Page Sidebar"
-msgstr "Barra Lateral da P&aacute;gina de Contato"
+msgstr ""
 
 #: inc/widgets/widgets.php:53
 msgid "Shows widgets on Contact Page Template."
-msgstr "Mostra Widgets no Modelo da P&aacute;gina de Contato"
+msgstr ""
 
 #: inc/widgets/widgets.php:62
 msgid "Error 404 Page Sidebar"
-msgstr "Barra Lateral da P&aacute;gina de Erro 404"
+msgstr ""
 
 #: inc/widgets/widgets.php:64
 msgid "Shows widgets on Error 404 page."
-msgstr "Mostar widgets na p&aacute;gina de Erro 404."
+msgstr ""
 
 #: inc/widgets/widgets.php:73
 msgid "Footer Sidebar One"
-msgstr "Barra de Rodap&eacute; Um"
+msgstr ""
 
 #: inc/widgets/widgets.php:75
 msgid "Shows widgets at footer sidebar one."
-msgstr "Mostar widgets na barra de rodap&eacute; um."
+msgstr ""
 
 #: inc/widgets/widgets.php:84
 msgid "Footer Sidebar Two"
-msgstr "Barra de Rodap&eacute; Dois"
+msgstr ""
 
 #: inc/widgets/widgets.php:86
 msgid "Shows widgets at footer sidebar two."
-msgstr "Mostar widgets na barra de rodap&eacute; dois."
+msgstr ""
 
 #: navigation.php:24 navigation.php:36
 msgid "&larr; Previous"
@@ -425,24 +422,18 @@ msgstr ""
 msgid ""
 "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
 msgstr ""
-"Pronto para publicar a sua primeira postagem? <a href=\"%1$s\">Come&ccedil;e "
-"aqui</a>."
 
 #: no-results.php:22
 msgid ""
 "Sorry, but nothing matched your search terms. Please try again with some "
 "different keywords."
 msgstr ""
-"Desculpe, mas nada foi encontrado nos termos da sua pesquisa. Por favor, "
-"tente novamente com algumas palavras chave diferentes."
 
 #: no-results.php:27
 msgid ""
 "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
 "searching can help."
 msgstr ""
-"Parece que n&atilde;o podemos encontrar o que voc&ecirc; est&aacute; "
-"procurando. Talvez uma pesquisa possa ajudar."
 
 #: options.php:27
 msgid "Header"
@@ -511,7 +502,7 @@ msgstr ""
 
 #: options.php:82
 msgid "Default layout"
-msgstr "Leiaute Padr&atilde;o"
+msgstr ""
 
 #: options.php:83
 msgid ""
@@ -588,7 +579,7 @@ msgstr ""
 
 #: options.php:163
 msgid "Custom CSS"
-msgstr "CSS Personalizado"
+msgstr ""
 
 #: options.php:164
 msgid "Write your custom css."
@@ -653,8 +644,8 @@ msgstr ""
 
 #: searchform.php:11 searchform.php:12
 msgid "Search"
-msgstr "Pesquisar"
+msgstr ""
 
 #: sidebar-left.php:36 sidebar.php:36
 msgid "Meta"
-msgstr "Meta"
+msgstr ""

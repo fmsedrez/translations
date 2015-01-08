@@ -41,7 +41,7 @@ msgstr "Pesquisar"
 #: ../search.php:18
 #, php-format
 msgid "Search Results for: %s"
-msgstr "Resultados de pesquisa para: %s "
+msgstr "Resultados de pesquisa para: %s"
 
 #: ../content-single.php:24 ../content-page.php:20 ../content.php:29
 msgid "Pages:"
@@ -238,7 +238,7 @@ msgstr "Terceira p&aacute;gina destacada"
 
 #: ../inc/template-tags.php:25
 msgid "Posts navigation"
-msgstr "Navega&ccedil;&atilde;o de Postagens"
+msgstr "Navega&ccedil;&atilde;o de postagens"
 
 #: ../inc/template-tags.php:29
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
@@ -250,7 +250,7 @@ msgstr "Postagens mais recentes <span class=\"meta-nav\">&rarr;</span>"
 
 #: ../inc/template-tags.php:58
 msgid "Post navigation"
-msgstr "Navega&ccedil;&atilde;o de Postagem"
+msgstr "Navega&ccedil;&atilde;o de postagem"
 
 #: ../inc/template-tags.php:61
 msgid "<span class=\"meta-nav\">&larr;</span> %title"

@@ -1,0 +1,530 @@
+# Radiate Pro WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Radiate Theme.
+msgid ""
+msgstr ""
+"Project-Id-Version: Radiate\n"
+"POT-Creation-Date: 2014-04-20 12:52+0545\n"
+"PO-Revision-Date: 2014-04-20 12:52+0545\n"
+"Last-Translator: \n"
+"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_x;_x;_nx;_ex\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:21
+msgid ""
+"It looks like nothing was found at this location. Try searching with some "
+"keywords."
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Author: %s"
+msgstr ""
+
+#: ../archive.php:41
+#, php-format
+msgid "Day: %s"
+msgstr ""
+
+#: ../archive.php:44
+#, php-format
+msgid "Month: %s"
+msgstr ""
+
+#: ../archive.php:47
+#, php-format
+msgid "Year: %s"
+msgstr ""
+
+#: ../archive.php:50
+msgid "Asides"
+msgstr ""
+
+#: ../archive.php:53
+msgid "Images"
+msgstr ""
+
+#: ../archive.php:56
+msgid "Videos"
+msgstr ""
+
+#: ../archive.php:59
+msgid "Quotes"
+msgstr ""
+
+#: ../archive.php:62
+msgid "Links"
+msgstr ""
+
+#: ../archive.php:65 ../sidebar-left.php:19 ../sidebar.php:19
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:32
+#, php-format
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:57
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:58
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41 ../comments.php:59
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:69
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-none.php:15
+msgid "Nothing Found"
+msgstr ""
+
+#: ../content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../content-page.php:20 ../content-single.php:24 ../content.php:29
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:25 ../content-single.php:57 ../content.php:63
+msgid "Edit"
+msgstr ""
+
+#: ../content-single.php:34 ../content-single.php:44 ../content.php:40
+#: ../content.php:50
+msgid ", "
+msgstr ""
+
+#: ../content-single.php:54 ../content.php:60
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-single.php:54 ../content.php:60
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-single.php:54 ../content.php:60
+msgid "% Comments"
+msgstr ""
+
+#: ../content.php:26
+msgid "Read more <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../front-page.php:40
+msgid "Read more"
+msgstr ""
+
+#: ../functions.php:48
+msgid "Primary Menu"
+msgstr ""
+
+#: ../functions.php:71 ../inc/customizer.php:249 ../inc/meta-box.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../functions.php:80 ../inc/customizer.php:250 ../inc/meta-box.php:38
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../functions.php:90
+msgid "Footer Sidebar One"
+msgstr ""
+
+#: ../functions.php:92
+msgid "Shows widgets at footer sidebar one."
+msgstr ""
+
+#: ../functions.php:101
+msgid "Footer Sidebar Two"
+msgstr ""
+
+#: ../functions.php:103
+msgid "Shows widgets at footer sidebar two."
+msgstr ""
+
+#: ../functions.php:112
+msgid "Footer Sidebar Three"
+msgstr ""
+
+#: ../functions.php:114
+msgid "Shows widgets at footer sidebar three."
+msgstr ""
+
+#: ../header.php:45
+msgid "Skip to content"
+msgstr ""
+
+#: ../inc/custom-header.php:41
+msgid "Header Image One"
+msgstr ""
+
+#: ../inc/customizer.php:38
+msgid "Site Title & Tagline"
+msgstr ""
+
+#: ../inc/customizer.php:40
+msgid ""
+"Please select the Header Disply Type 2 in Header Options Section to show the "
+"tagline"
+msgstr ""
+
+#: ../inc/customizer.php:65
+msgid "Apply responsiveness to header image"
+msgstr ""
+
+#: ../inc/customizer.php:86
+msgid "Primary Color"
+msgstr ""
+
+#: ../inc/customizer.php:97
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/customizer.php:116
+msgid "Add your custom css here and design live! (for advanced users)"
+msgstr ""
+
+#: ../inc/customizer.php:127
+msgid "Front Page Featured Section"
+msgstr ""
+
+#: ../inc/customizer.php:129
+msgid "Note:"
+msgstr ""
+
+#: ../inc/customizer.php:129
+msgid ""
+"If featured image is set for the following selected pages then the same "
+"image will appear in the featured section for the respective pages."
+msgstr ""
+
+#: ../inc/customizer.php:165
+msgid "Featured page 1"
+msgstr ""
+
+#: ../inc/customizer.php:174
+msgid "Featured page 2"
+msgstr ""
+
+#: ../inc/customizer.php:183
+msgid "Featured page 3"
+msgstr ""
+
+#: ../inc/customizer.php:194
+msgid "Featured page "
+msgstr ""
+
+#: ../inc/customizer.php:232
+msgid "Layout Settings Section"
+msgstr ""
+
+#: ../inc/customizer.php:246
+msgid "Default Layout Option"
+msgstr ""
+
+#: ../inc/customizer.php:251
+msgid "No Sidebar Content Full Width"
+msgstr ""
+
+#: ../inc/customizer.php:252 ../inc/meta-box.php:48
+msgid "No Sidebar Content Centered"
+msgstr ""
+
+#: ../inc/customizer.php:261
+msgid "Header Options"
+msgstr ""
+
+#: ../inc/customizer.php:263
+msgid ""
+"<strong>Note:</strong> The recommended height for header logo image is 68px."
+msgstr ""
+
+#: ../inc/customizer.php:276
+msgid "Header Display Type"
+msgstr ""
+
+#: ../inc/customizer.php:279
+msgid "Header Display Type 1/ Default"
+msgstr ""
+
+#: ../inc/customizer.php:280
+msgid "Header Display Type 2 - Supports header logo image plus tagline"
+msgstr ""
+
+#: ../inc/customizer.php:297
+msgid "Header Logo Image Upload"
+msgstr ""
+
+#: ../inc/customizer.php:308
+msgid "Footer Editor"
+msgstr ""
+
+#: ../inc/customizer.php:310
+msgid ""
+"[wp-link] - shortcode for wordpress.org [tg-link] - shortcode for themegrill."
+"com"
+msgstr ""
+
+#: ../inc/customizer.php:316
+msgid "Proudly powered by [wp-link] | Theme: Radiate Pro by [tg-link]."
+msgstr ""
+
+#: ../inc/customizer.php:325
+msgid "Copyright Text"
+msgstr ""
+
+#: ../inc/customizer.php:344
+msgid "Slider Options"
+msgstr ""
+
+#: ../inc/customizer.php:346
+msgid "Note"
+msgstr ""
+
+#: ../inc/customizer.php:346
+msgid "1. If the slider is enabled then this will replace the header image."
+msgstr ""
+
+#: ../inc/customizer.php:346
+msgid ""
+"2.If you need more or less number of slides, input the new number below, "
+"click on Save and Publish button and refresh the browser."
+msgstr ""
+
+#: ../inc/customizer.php:346
+msgid "3. The recommended size for the slider image is 1500 x 500 pixels."
+msgstr ""
+
+#: ../inc/customizer.php:359
+msgid "Enable the slider"
+msgstr ""
+
+#: ../inc/customizer.php:375
+msgid "Show slider on all pages"
+msgstr ""
+
+#: ../inc/customizer.php:392 ../inc/customizer.php:408
+msgid "Number of Slides"
+msgstr ""
+
+#: ../inc/customizer.php:428
+msgid "Slide Image Number "
+msgstr ""
+
+#: ../inc/customizer.php:464
+msgid "Slide Text "
+msgstr ""
+
+#: ../inc/customizer.php:482
+msgid "Button Text "
+msgstr ""
+
+#: ../inc/customizer.php:500
+msgid "Redirect Link "
+msgstr ""
+
+#: ../inc/customizer.php:517
+msgid "Open this slide link in new tab"
+msgstr ""
+
+#: ../inc/customizer.php:538
+msgid "Menu Text Color"
+msgstr ""
+
+#: ../inc/customizer.php:543
+msgid "Header Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:548
+msgid "Page Post Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:553
+msgid "Widget Title Color"
+msgstr ""
+
+#: ../inc/customizer.php:558
+msgid "Content Color"
+msgstr ""
+
+#: ../inc/customizer.php:563
+msgid "Content Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:568
+msgid "Right/Left Widget Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:573
+msgid "Post Meta Color"
+msgstr ""
+
+#: ../inc/customizer.php:578
+msgid "Footer Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:583
+msgid "Border Lines Color"
+msgstr ""
+
+#: ../inc/customizer.php:588
+msgid "Comments Background Color"
+msgstr ""
+
+#: ../inc/customizer.php:621
+msgid "Font Family Options"
+msgstr ""
+
+#: ../inc/customizer.php:630
+msgid "Site Title"
+msgstr ""
+
+#: ../inc/customizer.php:635
+msgid "Site Tagline"
+msgstr ""
+
+#: ../inc/customizer.php:640
+msgid "Menu"
+msgstr ""
+
+#: ../inc/customizer.php:645
+msgid "All Titles"
+msgstr ""
+
+#: ../inc/customizer.php:650
+msgid "Content"
+msgstr ""
+
+#: ../inc/extras.php:117
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/extras.php:196
+msgid "WordPress"
+msgstr ""
+
+#: ../inc/extras.php:203
+msgid "ThemeGrill"
+msgstr ""
+
+#: ../inc/meta-box.php:16 ../inc/meta-box.php:18
+msgid "Select Layout"
+msgstr ""
+
+#: ../inc/meta-box.php:28
+msgid "Default Layout"
+msgstr ""
+
+#: ../inc/meta-box.php:43
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: ../inc/template-tags.php:25
+msgid "Posts navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:29
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:33
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:58
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:61
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: ../inc/template-tags.php:62
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:84
+msgid "(Edit)"
+msgstr ""
+
+#: ../inc/template-tags.php:99
+msgid "Post author"
+msgstr ""
+
+#: ../inc/template-tags.php:102
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:104
+#, php-format
+msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
+msgstr ""
+
+#: ../inc/template-tags.php:110
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:115
+msgid "Reply"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:12
+msgid "Search for:"
+msgstr ""
+
+#: ../searchform.php:13
+msgid "Search &hellip;"
+msgstr ""
+
+#: ../searchform.php:15
+msgid "Search"
+msgstr ""
+
+#: ../sidebar-left.php:26 ../sidebar.php:26
+msgid "Meta"
+msgstr ""
