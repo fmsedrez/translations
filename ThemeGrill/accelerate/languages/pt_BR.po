@@ -24,6 +24,7 @@ msgstr "Oops! Essa p&aacute;gina n&atilde;o pode ser encontrada."
 #: 404.php:24
 msgid "It looks like nothing was found at this location. Try the search below."
 msgstr ""
+"Parece que nada foi encontrado neste endere&ccedil;o. Tente a pesquisa abaixo."
 
 #: archive.php:34
 #, php-format
@@ -101,11 +102,11 @@ msgstr "P&aacute;ginas:"
 
 #: functions.php:45
 msgid "Primary/Main Menu"
-msgstr ""
+msgstr "Menu Primr&aacute;io/Principal"
 
 #: functions.php:46
 msgid "Footer Menu"
-msgstr ""
+msgstr "Menu de Rodap&eacute;"
 
 #: header.php:93
 msgid "Menu"
@@ -135,7 +136,7 @@ msgstr "Largura Total Sem Barra Lateral"
 msgid "No Sidebar Content Centered"
 msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
 
-#: inc/admin/options/includes/class-options-framework-admin.php:90
+#: inc/admin/options/includes/class-options-framework-admin.php:90 #BREAK #TODO
 #: inc/admin/options/includes/class-options-framework-admin.php:91
 msgid "Theme Options"
 msgstr ""

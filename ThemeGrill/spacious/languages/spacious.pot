@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: Spacious\n"
-"POT-Creation-Date: 2014-11-21 11:04+0545\n"
-"PO-Revision-Date: 2014-11-21 11:04+0545\n"
+"POT-Creation-Date: 2014-12-10 11:15+0545\n"
+"PO-Revision-Date: 2014-12-10 11:16+0545\n"
 "Last-Translator: \n"
 "Language-Team: ThemeGrill <themegrill@gmail.com>\n"
 "Language: en\n"
@@ -78,8 +78,8 @@ msgid "Edit"
 msgstr ""
 
 #: content-blog-image-large.php:55 content-blog-image-medium.php:57
-#: content.php:63 inc/header-functions.php:111 inc/widgets/widgets.php:258
-#: inc/widgets/widgets.php:357
+#: content.php:63 inc/header-functions.php:87 inc/widgets/widgets.php:258
+#: inc/widgets/widgets.php:357 options.php:264
 msgid "Read more"
 msgstr ""
 
@@ -87,7 +87,7 @@ msgstr ""
 msgid "Tagged on: "
 msgstr ""
 
-#: header.php:84
+#: header.php:92
 msgid "Menu"
 msgstr ""
 
@@ -318,59 +318,59 @@ msgstr ""
 msgid "Page %s"
 msgstr ""
 
-#: inc/header-functions.php:145
+#: inc/header-functions.php:148
 #, php-format
 msgid "Author: %s"
 msgstr ""
 
-#: inc/header-functions.php:153
+#: inc/header-functions.php:156
 #, php-format
 msgid "Day: %s"
 msgstr ""
 
-#: inc/header-functions.php:156
+#: inc/header-functions.php:159
 #, php-format
 msgid "Month: %s"
 msgstr ""
 
-#: inc/header-functions.php:159
+#: inc/header-functions.php:162
 #, php-format
 msgid "Year: %s"
 msgstr ""
 
-#: inc/header-functions.php:162
+#: inc/header-functions.php:165
 msgid "Asides"
 msgstr ""
 
-#: inc/header-functions.php:165
+#: inc/header-functions.php:168
 msgid "Images"
 msgstr ""
 
-#: inc/header-functions.php:168
+#: inc/header-functions.php:171
 msgid "Videos"
 msgstr ""
 
-#: inc/header-functions.php:171
+#: inc/header-functions.php:174
 msgid "Quotes"
 msgstr ""
 
-#: inc/header-functions.php:174
+#: inc/header-functions.php:177
 msgid "Links"
 msgstr ""
 
-#: inc/header-functions.php:177 sidebar-left.php:29 sidebar.php:29
+#: inc/header-functions.php:180 sidebar-left.php:29 sidebar.php:29
 msgid "Archives"
 msgstr ""
 
-#: inc/header-functions.php:182
+#: inc/header-functions.php:185
 msgid "Page NOT Found"
 msgstr ""
 
-#: inc/header-functions.php:185
+#: inc/header-functions.php:188
 msgid "Search Results"
 msgstr ""
 
-#: inc/header-functions.php:218
+#: inc/header-functions.php:221
 msgid "You are here:"
 msgstr ""
 
@@ -614,282 +614,287 @@ msgid ""
 "searching can help."
 msgstr ""
 
-#: options.php:28
+#: options.php:30
 msgid "Header"
 msgstr ""
 
-#: options.php:34
+#: options.php:36
 msgid "Header Logo"
 msgstr ""
 
-#: options.php:35
-msgid "Upload logo for your header."
-msgstr ""
-
-#: options.php:42
-msgid "Header Logo Only"
-msgstr ""
-
-#: options.php:43
-msgid "Header Text Only"
+#: options.php:37
+msgid ""
+"Upload logo for your header. Recommended image size is 100 X 100 pixels."
 msgstr ""
 
 #: options.php:44
-msgid "Show Both"
+msgid "Header Logo Only"
 msgstr ""
 
 #: options.php:45
+msgid "Header Text Only"
+msgstr ""
+
+#: options.php:46
+msgid "Show Both"
+msgstr ""
+
+#: options.php:47
 msgid "Disable"
 msgstr ""
 
-#: options.php:48
+#: options.php:50
 msgid "Show"
 msgstr ""
 
-#: options.php:49
+#: options.php:51
 msgid "Choose the option that you want."
 msgstr ""
 
-#: options.php:58
+#: options.php:60
 msgid "Need to replace Header Image?"
 msgstr ""
 
-#: options.php:59 options.php:178
+#: options.php:61 options.php:180
 #, php-format
 msgid "<a href=\"%1$s\">Click Here</a>"
 msgstr ""
 
-#: options.php:65
+#: options.php:67
 msgid "Header Image Position"
 msgstr ""
 
-#: options.php:66
+#: options.php:68
 msgid "Choose top header image display position."
 msgstr ""
 
-#: options.php:71
+#: options.php:73
 msgid ""
 "Position Above (Default): Display the Header image just above the site title "
 "and main menu part."
 msgstr ""
 
-#: options.php:72
+#: options.php:74
 msgid ""
 "Position Below: Display the Header image just below the site title and main "
 "menu part."
 msgstr ""
 
-#: options.php:80
+#: options.php:82
 msgid "Design"
 msgstr ""
 
-#: options.php:85
+#: options.php:87
 msgid "Site Layout"
 msgstr ""
 
-#: options.php:86
+#: options.php:88
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
 
-#: options.php:91
+#: options.php:93
 msgid "Boxed layout with content width of 1218px"
 msgstr ""
 
-#: options.php:92
+#: options.php:94
 msgid "Boxed layout with content width of 978px"
 msgstr ""
 
-#: options.php:93
+#: options.php:95
 msgid "Wide layout with content width of 1218px"
 msgstr ""
 
-#: options.php:94
+#: options.php:96
 msgid "Wide layout with content width of 978px"
 msgstr ""
 
-#: options.php:99
+#: options.php:101
 msgid "Default layout"
 msgstr ""
 
-#: options.php:100
+#: options.php:102
 msgid ""
 "Select default layout. This layout will be reflected in whole site archives, "
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
 
-#: options.php:113
+#: options.php:115
 msgid "Default layout for pages only"
 msgstr ""
 
-#: options.php:114
+#: options.php:116
 msgid ""
 "Select default layout for pages. This layout will be reflected in all pages "
 "unless unique layout is set for specific page."
 msgstr ""
 
-#: options.php:127
+#: options.php:129
 msgid "Default layout for single posts only"
 msgstr ""
 
-#: options.php:128
+#: options.php:130
 msgid ""
 "Select default layout for single posts. This layout will be reflected in all "
 "single posts unless unique layout is set for specific post."
 msgstr ""
 
-#: options.php:141
+#: options.php:143
 msgid "Blog Posts display type"
 msgstr ""
 
-#: options.php:142
+#: options.php:144
 msgid ""
 "Choose the display type for the latests posts view or posts page view "
 "(static front page)."
 msgstr ""
 
-#: options.php:147
+#: options.php:149
 msgid "Blog Image Large"
 msgstr ""
 
-#: options.php:148
+#: options.php:150
 msgid "Blog Image Medium"
 msgstr ""
 
-#: options.php:149
+#: options.php:151
 msgid "Blog Image Alternate Medium"
 msgstr ""
 
-#: options.php:150
+#: options.php:152
 msgid "Blog Full Content"
 msgstr ""
 
-#: options.php:156
+#: options.php:158
 msgid "Primary color option"
 msgstr ""
 
-#: options.php:157
+#: options.php:159
 msgid ""
 "This will reflect in links, buttons and many others. Choose a color to match "
 "your site."
 msgstr ""
 
-#: options.php:165
+#: options.php:167
 msgid "Color Skin"
 msgstr ""
 
-#: options.php:166
+#: options.php:168
 msgid "Choose the light or dark skin. This will be reflected in whole site."
 msgstr ""
 
-#: options.php:177
+#: options.php:179
 msgid "Need to replace default background?"
 msgstr ""
 
-#: options.php:178
+#: options.php:180
 msgid ""
 "Note: The background will only be seen if you choose any of the boxed layout "
 "option in site layout option."
 msgstr ""
 
-#: options.php:183
+#: options.php:185
 msgid "Custom CSS"
 msgstr ""
 
-#: options.php:184
+#: options.php:186
 msgid "Write your custom css."
 msgstr ""
 
-#: options.php:193
+#: options.php:195
 msgid "Additional"
 msgstr ""
 
-#: options.php:199
+#: options.php:201
 msgid "Activate favicon"
 msgstr ""
 
-#: options.php:200
+#: options.php:202
 msgid "Check to activate favicon. Upload fav icon from below option"
 msgstr ""
 
-#: options.php:208
+#: options.php:210
 msgid "Upload favicon"
 msgstr ""
 
-#: options.php:209
+#: options.php:211
 msgid "Upload favicon for your site."
 msgstr ""
 
-#: options.php:217
+#: options.php:219
 msgid "Slider"
 msgstr ""
 
-#: options.php:223
+#: options.php:225
 msgid "Activate slider"
 msgstr ""
 
-#: options.php:224
+#: options.php:226
 msgid "Check to activate slider."
 msgstr ""
 
-#: options.php:232
+#: options.php:234
 msgid "Disable slider in Posts page"
 msgstr ""
 
-#: options.php:233
+#: options.php:235
 msgid "Check to disable slider in Posts Page"
 msgstr ""
 
-#: options.php:242
+#: options.php:244
 #, php-format
 msgid "Image Upload #%1$s"
 msgstr ""
 
-#: options.php:243
+#: options.php:245
 msgid "Upload slider image."
 msgstr ""
 
-#: options.php:248
+#: options.php:250
 msgid "Enter title for your slider."
 msgstr ""
 
-#: options.php:254
+#: options.php:256
 msgid "Enter your slider description."
 msgstr ""
 
-#: options.php:260
+#: options.php:262
+msgid "Enter the button text. Default is \"Read more\""
+msgstr ""
+
+#: options.php:268
 msgid "Enter link to redirect slider when clicked"
 msgstr ""
 
-#: options.php:279
+#: options.php:287
 msgid "About Spacious"
 msgstr ""
 
-#: options.php:281
+#: options.php:289
 msgid "Upgrade to Pro"
 msgstr ""
 
-#: options.php:282
+#: options.php:290
 msgid "Free Support"
 msgstr ""
 
-#: options.php:283
+#: options.php:291
 msgid "Documentation"
 msgstr ""
 
-#: options.php:284
+#: options.php:292
 msgid "View Demo"
 msgstr ""
 
-#: options.php:285
+#: options.php:293
 msgid "Rate this theme"
 msgstr ""
 
-#: options.php:288
+#: options.php:296
 msgid "If you like our work. Buy us a beer."
 msgstr ""
 
-#: searchform.php:12 searchform.php:15
+#: searchform.php:12
 msgid "Search"
 msgstr ""
 
