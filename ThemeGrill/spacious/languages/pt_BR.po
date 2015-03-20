@@ -1,16 +1,17 @@
-# Fernando Sedrez <fernando@fms.eti.br>, 2015.
+# Spacious WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Spacious Theme.
 msgid ""
 msgstr ""
 "Project-Id-Version: Spacious\n"
 "POT-Creation-Date: 2014-12-10 11:15+0545\n"
 "PO-Revision-Date: 2014-12-10 11:16+0545\n"
-"Last-Translator: \n"
-"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
-"Language: en\n"
+"Last-Translator: Fernando de Moraes Sedrez <fernando@fms.eti.br>\n"
+"Language-Team: fms.eti.br\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Poedit-Basepath: ../\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -244,17 +245,17 @@ msgstr "Negrito It&aacute;lico"
 
 #: inc/functions.php:341
 msgid "Post navigation"
-msgstr ""
+msgstr "Navega&ccedil;&atilde;o de postagem"
 
 #: inc/functions.php:345 navigation.php:42
 msgctxt "Previous post link"
 msgid "&larr;"
-msgstr ""
+msgstr "&larr;"
 
 #: inc/functions.php:346 navigation.php:43
 msgctxt "Next post link"
 msgid "&rarr;"
-msgstr ""
+msgstr "&rarr;"
 
 #: inc/functions.php:351
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
@@ -511,33 +512,36 @@ msgstr ""
 #: inc/widgets/widgets.php:190 inc/widgets/widgets.php:522
 #: inc/widgets/widgets.php:567
 msgid "Title:"
-msgstr ""
+msgstr "T&iacute;tulo"
 
 #: inc/widgets/widgets.php:193
 msgid "Displays the title of the Page if title input is empty."
 msgstr ""
+"Exibe o t&iacute;tulo da p&aacute;gina se o t&iacute;tulo est&aacute; vazio."
 
 #: inc/widgets/widgets.php:196 inc/widgets/widgets.php:294
 #: inc/widgets/widgets.php:576
 msgid "Page"
-msgstr ""
+msgstr "P&aacute;gina"
 
 #: inc/widgets/widgets.php:200
 msgid "Remove Featured image"
-msgstr ""
+msgstr "Remover imagem destacada"
 
 #: inc/widgets/widgets.php:205 inc/widgets/widgets.php:210
 msgid "Show Image Before Title"
-msgstr ""
+msgstr "Mostrar Imagem Antes do T&iacute;tulo"
 
 #: inc/widgets/widgets.php:206 inc/widgets/widgets.php:211
 msgid "Show Image After Title"
-msgstr ""
+msgstr "Mostrar Imagem Depois do T&iacute;tulo"
 
 #: inc/widgets/widgets.php:276
 msgid ""
 "Display some pages as services. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Exibe algumas p&aacute;ginas como servi&ccedil;os. Melhor para Barra de "
+"Negoc&iacute;os Lateral Superior ou Inferior."
 
 #: inc/widgets/widgets.php:278
 msgid "TG: Services"
@@ -546,75 +550,79 @@ msgstr ""
 #: inc/widgets/widgets.php:377
 msgid "Use this widget to show the call to action section."
 msgstr ""
+"Use esse widget para mostar se&ccedil;&aatilde;o de chamar para "
+"aa&ccedil;&aatilde;o."
 
 #: inc/widgets/widgets.php:379
 msgid "TG: Call To Action Widget"
-msgstr ""
+msgstr "TG: Chamar para Aa&ccedil;&aatilde;o Widget"
 
 #: inc/widgets/widgets.php:395
 msgid "Call to Action Main Text"
-msgstr ""
+msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Principal"
 
 #: inc/widgets/widgets.php:397
 msgid "Call to Action Additional Text"
-msgstr ""
+msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Adicional"
 
 #: inc/widgets/widgets.php:400
 msgid "Button Text:"
-msgstr ""
+msgstr "Texto do Bot&aatilde;o:"
 
 #: inc/widgets/widgets.php:404
 msgid "Button Redirect Link:"
-msgstr ""
+msgstr "Bot&aatilde;o de Link de Redirecionamento"
 
 #: inc/widgets/widgets.php:477
 msgid "Display Testimonial"
-msgstr ""
+msgstr "Exibe Depoimento"
 
 #: inc/widgets/widgets.php:479
 msgid "TG: Testimonial"
-msgstr ""
+msgstr "TG: Depoimento"
 
 #: inc/widgets/widgets.php:524
 msgid "Testimonial Description"
-msgstr ""
+msgstr "Descri&ccedil;&atilde;o do Depoimento"
 
 #: inc/widgets/widgets.php:527
 msgid "Name:"
-msgstr ""
+msgstr "Nome:"
 
 #: inc/widgets/widgets.php:530
 msgid "Byline:"
-msgstr ""
+msgstr "Assinatura:"
 
 #: inc/widgets/widgets.php:544
 msgid ""
 "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Mostrar algumas p&aacute;ginas como trabalho recente. Melhor para Barra de "
+"Negoc&iacute;os Lateral Superior e Inferior."
 
 #: inc/widgets/widgets.php:546
 msgid "TG: Featured Widget"
-msgstr ""
+msgstr "TG: Widget Destacado"
 
 #: inc/widgets/widgets.php:570
 msgid "Description"
-msgstr ""
+msgstr "Descri&ccedil;&atilde;o"
 
 #: navigation.php:22
 msgid "&laquo; Previous"
-msgstr ""
+msgstr "&laquo; Anterior"
 
 #: navigation.php:23
 msgid "Next &raquo;"
-msgstr ""
+msgstr "Pr&oacuteximo &raquo;"
 
 #: navigation.php:34
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; Anterior"
 
 #: navigation.php:35
 msgid "Next &rarr;"
-msgstr ""
+msgstr "Pr&oacuteximo &rarr;"
 
 #: no-results.php:18
 #, php-format
@@ -642,68 +650,75 @@ msgstr ""
 
 #: options.php:30
 msgid "Header"
-msgstr ""
+msgstr "Cabe&ccedil;alho"
 
 #: options.php:36
 msgid "Header Logo"
-msgstr ""
+msgstr "Logo do Cabe&ccedil;alho"
 
 #: options.php:37
 msgid ""
 "Upload logo for your header. Recommended image size is 100 X 100 pixels."
 msgstr ""
+"Carregar logo para seu cabe&ccedil;lho. Tamanho recomendado para a imagem é "
+"de 100 x 100 pixels."
+
 
 #: options.php:44
 msgid "Header Logo Only"
-msgstr ""
+msgstr "Somente Logo no Cabe&ccedil;alho"
 
 #: options.php:45
 msgid "Header Text Only"
-msgstr ""
+msgstr "Somente Texto no Cabe&ccedil;alho"
 
 #: options.php:46
 msgid "Show Both"
-msgstr ""
+msgstr "Mostrar Ambos"
 
 #: options.php:47
 msgid "Disable"
-msgstr ""
+msgstr "Desabilitar"
 
 #: options.php:50
 msgid "Show"
-msgstr ""
+msgstr "Mostrar"
 
 #: options.php:51
 msgid "Choose the option that you want."
-msgstr ""
+msgstr "Escolha a op&ccedil;&atilde;o que voc&ecirc; quer."
 
 #: options.php:60
 msgid "Need to replace Header Image?"
-msgstr ""
+msgstr "Necessidade de substituir a Image de Cabe&ccedil;alho?"
 
 #: options.php:61 options.php:180
 #, php-format
 msgid "<a href=\"%1$s\">Click Here</a>"
-msgstr ""
+msgstr "<a href=\"%1$s\">Clique Aqui</a>"
 
 #: options.php:67
 msgid "Header Image Position"
-msgstr ""
+msgstr "Posi&ccedil;&atilde;o da Imagem de Cabe&ccedil;alho"
 
 #: options.php:68
 msgid "Choose top header image display position."
-msgstr ""
+msgstr "Escolha a posi&ccedil;&atilde;o de exibi&ccedil;&atilde;o da imagem do "
+"cabe&ccedil;alho superior"
 
 #: options.php:73
 msgid ""
 "Position Above (Default): Display the Header image just above the site title "
 "and main menu part."
 msgstr ""
+"Posi&ccedil;&atilde;o acima (Padr&atilde;o): Exibe a imagem do "
+"Cabe&ccedil;alho logo acima do t&iacute;tulo do site e da parte principal do "
+"menu."
 
 #: options.php:74
 msgid ""
 "Position Below: Display the Header image just below the site title and main "
-"menu part."
+"menu part." #TODO
 msgstr ""
 
 #: options.php:82

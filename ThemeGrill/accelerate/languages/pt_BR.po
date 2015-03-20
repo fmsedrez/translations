@@ -1,16 +1,17 @@
-# Fernando Sedrez <fernando@fms.eti.br>, 2014.
+# Accelerate WordPress Theme. Translation template file.
+# This file is distributed under the same license as the Accelerate Theme.
 msgid ""
 msgstr ""
 "Project-Id-Version: Accelerate\n"
 "POT-Creation-Date: 2015-02-04 13:01+0545\n"
 "PO-Revision-Date: 2015-02-04 13:02+0545\n"
-"Last-Translator: ThemeGrill <themegrill@gmail.com>\n"
-"Language-Team: ThemeGrill <themegrill@gmail.com>\n"
-"Language: en\n"
+"Last-Translator: Fernando de Moraes Sedrez <fernando@fms.eti.br>\n"
+"Language-Team: fms.eti.br\n"
+"Language: pt_br\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Virtaal 0.7.1\n"
 "X-Poedit-Basepath: ../\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Virtaal 0.7.1\n"
@@ -301,7 +302,7 @@ msgstr ""
 #: inc/functions.php:396 navigation.php:43
 msgctxt "Next post link"
 msgid "&rarr;"
-msgstr ""
+msgstr "&rarr;"
 
 #: inc/functions.php:401
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
@@ -448,70 +449,77 @@ msgstr ""
 #: inc/widgets/widgets.php:145 inc/widgets/widgets.php:353
 #: inc/widgets/widgets.php:579
 msgid "Title:"
-msgstr ""
+msgstr "T&iacute;tulo"
 
 #: inc/widgets/widgets.php:148
 msgid "Displays the title of the Page if title input is empty."
 msgstr ""
+"Exibe o t&iacute;tulo da p&aacute;gina se o t&iacute;tulo est&aacute; vazio."
 
 #: inc/widgets/widgets.php:151 inc/widgets/widgets.php:360
 #: inc/widgets/widgets.php:463
 msgid "Page"
-msgstr ""
+msgstr "P&aacute;gina"
 
 #: inc/widgets/widgets.php:155
 msgid "Remove Featured image"
-msgstr ""
+msgstr "Remover imagem Destacada"
 
 #: inc/widgets/widgets.php:160 inc/widgets/widgets.php:165
 msgid "Show Image Before Title"
-msgstr ""
+msgstr "Mostrar Imagem Antes do T&iacute;tulo"
 
 #: inc/widgets/widgets.php:161 inc/widgets/widgets.php:166
 msgid "Show Image After Title"
-msgstr ""
+msgstr "Mostrar Imagem Depois do T&iacute;tulo"
 
 #: inc/widgets/widgets.php:231
 msgid "Use this widget to show the call to action section."
 msgstr ""
+"Use esse widget para mostar se&ccedil;&aatilde;o de chamar para "
+"aa&ccedil;&aatilde;o."
 
 #: inc/widgets/widgets.php:233
 msgid "TG: Call To Action Widget"
-msgstr ""
+msgstr "TG: Chamar para Aa&ccedil;&aatilde;o Widget"
 
 #: inc/widgets/widgets.php:249
 msgid "Call to Action Main Text"
-msgstr ""
+msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Principal"
 
 #: inc/widgets/widgets.php:251
 msgid "Call to Action Additional Text"
-msgstr ""
+msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Adicional"
 
 #: inc/widgets/widgets.php:254
 msgid "Button Text:"
-msgstr ""
+msgstr "Texto do Bot&aatilde;o:"
 
 #: inc/widgets/widgets.php:258
 msgid "Button Redirect Link:"
-msgstr ""
+msgstr "Bot&aatilde;o de Link de Redirecionamento"
 
 #: inc/widgets/widgets.php:330
 msgid ""
 "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Mostrar algumas p&aacute;ginas como trabalho recente. Melhor para Barra de "
+"Negoc&iacute;os Lateral Superior e Inferior."
 
 #: inc/widgets/widgets.php:332
 msgid "TG: Featured Widget"
-msgstr ""
+msgstr "TG: Widget Destacado"
 
 #: inc/widgets/widgets.php:356
 msgid "Description"
-msgstr ""
+msgstr "Descri&ccedil;&atilde;o"
 
 #: inc/widgets/widgets.php:445
 msgid ""
 "Display some pages as services. Best for Business Top or Bottom sidebar."
 msgstr ""
+"Exibe algumas p&aacute;ginas como servi&ccedil;os. Melhor para Barra de "
+"Negoc&iacute;os Lateral Superior ou Inferior."
 
 #: inc/widgets/widgets.php:447
 msgid "TG: Image Services"
@@ -527,11 +535,11 @@ msgstr ""
 
 #: navigation.php:22 navigation.php:34
 msgid "&larr; Previous"
-msgstr ""
+msgstr "&larr; Anterior"
 
 #: navigation.php:23 navigation.php:35
 msgid "Next &rarr;"
-msgstr ""
+msgstr "Pr&oacuteximo &rarr;"
 
 #: no-results.php:18
 #, php-format
@@ -559,11 +567,11 @@ msgstr ""
 
 #: options.php:30
 msgid "Header"
-msgstr ""
+msgstr "Cabe&ccedil;alho"
 
 #: options.php:36
 msgid "Header Logo"
-msgstr ""
+msgstr "Logo do Cabe&ccedil;alho"
 
 #: options.php:37
 msgid ""
@@ -573,27 +581,27 @@ msgstr ""
 
 #: options.php:44
 msgid "Header Logo Only"
-msgstr ""
+msgstr "Somente Logo no Cabe&ccedil;alho"
 
 #: options.php:45
 msgid "Header Text Only"
-msgstr ""
+msgstr "Somente Texto no Cabe&ccedil;alho"
 
 #: options.php:46
 msgid "Show Both"
-msgstr ""
+msgstr "Mostrar Ambos"
 
 #: options.php:47
 msgid "Disable"
-msgstr ""
+msgstr "Desabilitar"
 
 #: options.php:50
 msgid "Show"
-msgstr ""
+msgstr "Mostrar"
 
 #: options.php:51
 msgid "Choose the option that you want."
-msgstr ""
+msgstr "Escolha a op&ccedil;&atilde;o que voc&ecirc; quer."
 
 #: options.php:60
 msgid "Need to add header widgets?"
@@ -608,7 +616,7 @@ msgstr ""
 
 #: options.php:68
 msgid "Need to replace Header Image?"
-msgstr ""
+msgstr "Necessidade de substituir a Image de Cabe&ccedil;alho?"
 
 #: options.php:69
 #, php-format
@@ -623,7 +631,8 @@ msgstr ""
 
 #: options.php:75
 msgid "Choose top header image display position."
-msgstr ""
+msgstr "Escolha a posi&ccedil;&atilde;o de exibi&ccedil;&atilde;o da imagem do "
+"cabe&ccedil;alho superior"
 
 #: options.php:80
 msgid "Position One: Display the Header image just above the site title/text."
@@ -729,7 +738,7 @@ msgstr ""
 #: options.php:172
 #, php-format
 msgid "<a href=\"%1$s\">Click Here</a>"
-msgstr ""
+msgstr "<a href=\"%1$s\">Clique Aqui</a>"
 
 #: options.php:172
 msgid ""
