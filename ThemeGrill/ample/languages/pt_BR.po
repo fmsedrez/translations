@@ -226,67 +226,67 @@ msgstr ""
 msgid "Bold Italic"
 msgstr ""
 
-#: inc/functions.php:141
+#: inc/functions.php:124
 msgid "WordPress"
 msgstr ""
 
-#: inc/functions.php:143
+#: inc/functions.php:126
 msgid "ThemeGrill"
 msgstr ""
 
-#: inc/functions.php:145
+#: inc/functions.php:128
 #, php-format
 msgid "Copyright &copy; %1$s %2$s."
 msgstr ""
 
-#: inc/functions.php:145
+#: inc/functions.php:128
 #, php-format
 msgid "Powered by %s."
 msgstr ""
 
-#: inc/functions.php:145
+#: inc/functions.php:128
 #, php-format
 msgid "Theme: %1$s by %2$s."
 msgstr ""
 
-#: inc/functions.php:392
+#: inc/functions.php:379
 msgid "No Comments"
 msgstr ""
 
-#: inc/functions.php:392
+#: inc/functions.php:379
 msgid "1 Comment"
 msgstr ""
 
-#: inc/functions.php:392
+#: inc/functions.php:379
 msgid "% Comments"
 msgstr ""
 
-#: inc/functions.php:392
+#: inc/functions.php:379
 msgid "Comments Off"
 msgstr ""
 
-#: inc/functions.php:415
+#: inc/functions.php:402
 msgid "Pingback:"
 msgstr ""
 
-#: inc/functions.php:415
+#: inc/functions.php:402
 msgid "(Edit)"
 msgstr ""
 
-#: inc/functions.php:430
+#: inc/functions.php:417
 msgid "Post author"
 msgstr ""
 
-#: inc/functions.php:433
+#: inc/functions.php:420
 #, php-format
 msgid "%1$s at %2$s"
 msgstr ""
 
-#: inc/functions.php:441
+#: inc/functions.php:428
 msgid "Your comment is awaiting moderation."
 msgstr ""
 
-#: inc/functions.php:446
+#: inc/functions.php:433
 msgid "Reply"
 msgstr ""
 
@@ -319,7 +319,8 @@ msgid "Page NOT Found"
 msgstr ""
 
 #: inc/header-functions.php:114
-msgid "Search Results For: "
+#, php-format
+msgid "Search Results For: %s"
 msgstr ""
 
 #: inc/header-functions.php:146
@@ -388,12 +389,12 @@ msgid "TG: Service Widget"
 msgstr ""
 
 #: inc/widgets/widgets.php:135 inc/widgets/widgets.php:341
-#: inc/widgets/widgets.php:506
+#: inc/widgets/widgets.php:509
 msgid "Title:"
 msgstr "T&iacute;tulo"
 
 #: inc/widgets/widgets.php:138 inc/widgets/widgets.php:345
-#: inc/widgets/widgets.php:509
+#: inc/widgets/widgets.php:512
 msgid "Description"
 msgstr "Descri&ccedil;&atilde;o"
 
@@ -451,11 +452,11 @@ msgstr ""
 msgid "OTHER SETTINGS :"
 msgstr ""
 
-#: inc/widgets/widgets.php:349 inc/widgets/widgets.php:513
+#: inc/widgets/widgets.php:349 inc/widgets/widgets.php:516
 msgid "Number of posts to display:"
 msgstr ""
 
-#: inc/widgets/widgets.php:354 inc/widgets/widgets.php:523
+#: inc/widgets/widgets.php:354 inc/widgets/widgets.php:526
 msgid "Select category"
 msgstr ""
 
@@ -472,23 +473,23 @@ msgid ""
 "Note: Link to redirect. If empty than it will redirect to selected category."
 msgstr ""
 
-#: inc/widgets/widgets.php:484
+#: inc/widgets/widgets.php:487
 msgid "Display latest posts or posts of specific category"
 msgstr ""
 
-#: inc/widgets/widgets.php:486
+#: inc/widgets/widgets.php:489
 msgid "TG: Featured Posts"
 msgstr ""
 
-#: inc/widgets/widgets.php:518
+#: inc/widgets/widgets.php:521
 msgid "Show latest Posts"
 msgstr ""
 
-#: inc/widgets/widgets.php:519
+#: inc/widgets/widgets.php:522
 msgid "Show posts from a category"
 msgstr ""
 
-#: inc/widgets/widgets.php:616
+#: inc/widgets/widgets.php:618
 msgid " Read more"
 msgstr ""
 
@@ -623,18 +624,22 @@ msgid ""
 "Position Below: Display the Header image just below the site title and main "
 "menu part."
 msgstr ""
+"Posi&ccedil;&atilde;o abaixo: Exibe a imagem do Cabe&ccedil;alho logo abaixo "
+"do t&iacute;tulo do site e da parte principal do "
+"menu."
 
 #: options.php:95
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: options.php:100
 msgid "Site Layout"
-msgstr ""
+msgstr "Site Leiaute"
 
 #: options.php:101
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
+"Escolha o leiaute de seu site. A mudan&ccedil;a se reflete em todo o site."
 
 #: options.php:106
 msgid "Wide layout"
@@ -654,10 +659,14 @@ msgid ""
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
+"Selecione o leiaute padr&atilde;o. Este leiaute ser&acute; refletido nos
+"arquivos do site inteiro, pesquisa etc. O leiaute para uma &ucute;nica "
+"postagem e p&acute;gina pode ser controlado a partir das op&ccedil;&otilde;es "
+"abaixo."
 
 #: options.php:127
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Leiaute padr&atilde;o s&ocute; para p&acute;ginas"
 
 #: options.php:128
 msgid ""
@@ -755,22 +764,26 @@ msgid "About Ample"
 msgstr ""
 
 #: options.php:259
-msgid "Free Support"
+msgid "Upgrade to Pro"
 msgstr ""
 
 #: options.php:260
-msgid "Documentation"
+msgid "Free Support"
 msgstr ""
 
 #: options.php:261
-msgid "View Demo"
+msgid "Documentation"
 msgstr ""
 
 #: options.php:262
+msgid "View Demo"
+msgstr ""
+
+#: options.php:263
 msgid "Rate this theme"
 msgstr ""
 
-#: options.php:265
+#: options.php:266
 msgid "If you like our work. Buy us a beer."
 msgstr ""
 

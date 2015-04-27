@@ -614,11 +614,11 @@ msgid ""
 "to the Header Sidebar."
 msgstr ""
 
-#: options.php:68
+#: options.php:67
 msgid "Need to replace Header Image?"
 msgstr "Necessidade de substituir a Image de Cabe&ccedil;alho?"
 
-#: options.php:69
+#: options.php:68
 #, php-format
 msgid ""
 "<a href=\"%1$s\">Click Here</a> &nbsp;&nbsp; You can change the image "
@@ -650,15 +650,16 @@ msgstr ""
 
 #: options.php:90
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: options.php:95
 msgid "Site Layout"
-msgstr ""
+msgstr "Site Leiaute"
 
 #: options.php:96
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
+"Escolha o leiaute de seu site. A mudan&ccedil;a se reflete em todo o site."
 
 #: options.php:101
 msgid "Boxed layout"
@@ -678,10 +679,14 @@ msgid ""
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
+"Selecione o leiaute padr&atilde;o. Este leiaute ser&acute; refletido nos
+"arquivos do site inteiro, pesquisa etc. O leiaute para uma &ucute;nica "
+"postagem e p&acute;gina pode ser controlado a partir das op&ccedil;&otilde;es "
+"abaixo."
 
 #: options.php:121
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Leiaute padr&atilde;o s&ocute; para p&acute;ginas"
 
 #: options.php:122
 msgid ""

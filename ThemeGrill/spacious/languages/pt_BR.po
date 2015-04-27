@@ -81,8 +81,8 @@ msgid "Edit"
 msgstr "Editar"
 
 #: content-blog-image-large.php:55 content-blog-image-medium.php:57
-#: content.php:63 inc/header-functions.php:87 inc/widgets/widgets.php:258
-#: inc/widgets/widgets.php:357 options.php:264
+#: content.php:63 inc/header-functions.php:106 inc/widgets/widgets.php:258
+#: inc/widgets/widgets.php:355 options.php:264
 msgid "Read more"
 msgstr "Leia mais"
 
@@ -90,7 +90,15 @@ msgstr "Leia mais"
 msgid "Tagged on: "
 msgstr "Marcado em:"
 
-#: header.php:92
+#: functions.php:47
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:48
+msgid "Footer Menu"
+msgstr ""
+
+#: header.php:84
 msgid "Menu"
 msgstr "Menu"
 
@@ -123,25 +131,25 @@ msgstr "Conte&uacute;do Centralizado Sem Barra Lateral"
 msgid "Theme Options"
 msgstr "Op&ccedil;&otilde;es do Tema"
 
-#: inc/admin/options/includes/class-options-framework-admin.php:198
+#: inc/admin/options/includes/class-options-framework-admin.php:203
 msgid "Save Options"
 msgstr "Salvar Op&ccedil;&otilde;es"
 
-#: inc/admin/options/includes/class-options-framework-admin.php:199
+#: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Restore Defaults"
 msgstr "Restaurar Padr&otilde;es"
 
-#: inc/admin/options/includes/class-options-framework-admin.php:199
+#: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Click OK to reset. Any theme settings will be lost!"
 msgstr ""
 "Pressione OK para restaurar. Qualquer configura&ccedil;&atilde;o do tema "
 "ser&aacute; perdida!"
 
-#: inc/admin/options/includes/class-options-framework-admin.php:230
+#: inc/admin/options/includes/class-options-framework-admin.php:235
 msgid "Default options restored."
 msgstr "Op&ccedil;&otilde;es padr&otilde;es restauradas."
 
-#: inc/admin/options/includes/class-options-framework-admin.php:284
+#: inc/admin/options/includes/class-options-framework-admin.php:289
 msgid "Options saved."
 msgstr "Op&ccedil;&otilde;es salvas."
 
@@ -243,139 +251,139 @@ msgstr "Negrito"
 msgid "Bold Italic"
 msgstr "Negrito It&aacute;lico"
 
-#: inc/functions.php:341
+#: inc/functions.php:353
 msgid "Post navigation"
 msgstr "Navega&ccedil;&atilde;o de postagem"
 
-#: inc/functions.php:345 navigation.php:42
+#: inc/functions.php:357 navigation.php:42
 msgctxt "Previous post link"
 msgid "&larr;"
 msgstr "&larr;"
 
-#: inc/functions.php:346 navigation.php:43
+#: inc/functions.php:358 navigation.php:43
 msgctxt "Next post link"
 msgid "&rarr;"
 msgstr "&rarr;"
 
-#: inc/functions.php:351
+#: inc/functions.php:363
 msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
 msgstr "<span class=\"meta-nav\">&larr;</span> Postagens mais antigas"
 
-#: inc/functions.php:355
+#: inc/functions.php:367
 msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
 msgstr "Postagens mais recentes <span class=\"meta-nav\">&rarr;</span>"
 
-#: inc/functions.php:381
+#: inc/functions.php:393
 msgid "Pingback:"
 msgstr "Pingback:"
 
-#: inc/functions.php:381
+#: inc/functions.php:393
 msgid "(Edit)"
 msgstr "(Editar)"
 
-#: inc/functions.php:396
+#: inc/functions.php:408
 msgid "Post author"
 msgstr "Autor da postagem"
 
-#: inc/functions.php:399
+#: inc/functions.php:411
 #, php-format
 msgid "%1$s at %2$s"
 msgstr "%1$s em %2$s"
 
-#: inc/functions.php:401
+#: inc/functions.php:413
 #, php-format
 msgid "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
 msgstr "<a class=\"comment-permalink\" href=\"%1$s\">Permalink</a>"
 
-#: inc/functions.php:407
+#: inc/functions.php:419
 msgid "Your comment is awaiting moderation."
 msgstr "Seu coment&aacute;rio est&aacute; aguardando modera&ccedil;&atilde;o."
 
-#: inc/functions.php:412
+#: inc/functions.php:424
 msgid "Reply"
 msgstr "Responder"
 
-#: inc/functions.php:432
+#: inc/functions.php:444
 msgid "WordPress"
 msgstr "WordPress"
 
-#: inc/functions.php:434
+#: inc/functions.php:446
 msgid "ThemeGrill"
 msgstr "ThemeGrill"
 
-#: inc/functions.php:436
+#: inc/functions.php:448
 #, php-format
 msgid "Copyright &copy; %1$s %2$s."
 msgstr "Copyright &copy; %1$s %2$s."
 
-#: inc/functions.php:436
+#: inc/functions.php:448
 #, php-format
 msgid "Powered by %s."
 msgstr "Desenvolvido por %s."
 
-#: inc/functions.php:436
+#: inc/functions.php:448
 #, php-format
 msgid "Theme: %1$s by %2$s."
 msgstr "Tema: %1$s por %2$s."
 
-#: inc/header-functions.php:47
+#: inc/header-functions.php:64
 #, php-format
 msgid "Page %s"
 msgstr "P&aacute;gina %s"
 
-#: inc/header-functions.php:148
+#: inc/header-functions.php:167
 #, php-format
 msgid "Author: %s"
 msgstr "Autor: %s"
 
-#: inc/header-functions.php:156
+#: inc/header-functions.php:175
 #, php-format
 msgid "Day: %s"
 msgstr "Dia: %s"
 
-#: inc/header-functions.php:159
+#: inc/header-functions.php:178
 #, php-format
 msgid "Month: %s"
 msgstr "M&ecirc;s: %s"
 
-#: inc/header-functions.php:162
+#: inc/header-functions.php:181
 #, php-format
 msgid "Year: %s"
 msgstr "Ano: %s"
 
-#: inc/header-functions.php:165
+#: inc/header-functions.php:184
 msgid "Asides"
 msgstr "&Agrave; parte"
 
-#: inc/header-functions.php:168
+#: inc/header-functions.php:187
 msgid "Images"
 msgstr "Imagens"
 
-#: inc/header-functions.php:171
+#: inc/header-functions.php:190
 msgid "Videos"
 msgstr "V&iacute;deos"
 
-#: inc/header-functions.php:174
+#: inc/header-functions.php:193
 msgid "Quotes"
 msgstr "Cita&ccedil;&otilde;es"
 
-#: inc/header-functions.php:177
+#: inc/header-functions.php:196
 msgid "Links"
 msgstr "Links"
 
-#: inc/header-functions.php:180 sidebar-left.php:29 sidebar.php:29
+#: inc/header-functions.php:199 sidebar-left.php:29 sidebar.php:29
 msgid "Archives"
 msgstr "Arquivos"
 
-#: inc/header-functions.php:185
+#: inc/header-functions.php:204
 msgid "Page NOT Found"
 msgstr "P&aacute;gina N&Atilde;O Encontrada"
 
-#: inc/header-functions.php:188
+#: inc/header-functions.php:207
 msgid "Search Results"
 msgstr "Resultados da Pesquisa"
 
-#: inc/header-functions.php:221
+#: inc/header-functions.php:240
 msgid "You are here:"
 msgstr "Voc&ecirc;s est&aacute; aqui:"
 
@@ -509,8 +517,8 @@ msgstr ""
 "Adequado para Barra Superior da Home, Barra Inferior Esquerda da Home e "
 "Barra Lateral."
 
-#: inc/widgets/widgets.php:190 inc/widgets/widgets.php:522
-#: inc/widgets/widgets.php:567
+#: inc/widgets/widgets.php:190 inc/widgets/widgets.php:520
+#: inc/widgets/widgets.php:565
 msgid "Title:"
 msgstr "T&iacute;tulo"
 
@@ -520,7 +528,7 @@ msgstr ""
 "Exibe o t&iacute;tulo da p&aacute;gina se o t&iacute;tulo est&aacute; vazio."
 
 #: inc/widgets/widgets.php:196 inc/widgets/widgets.php:294
-#: inc/widgets/widgets.php:576
+#: inc/widgets/widgets.php:574
 msgid "Page"
 msgstr "P&aacute;gina"
 
@@ -547,64 +555,64 @@ msgstr ""
 msgid "TG: Services"
 msgstr ""
 
-#: inc/widgets/widgets.php:377
+#: inc/widgets/widgets.php:375
 msgid "Use this widget to show the call to action section."
 msgstr ""
 "Use esse widget para mostar se&ccedil;&aatilde;o de chamar para "
 "aa&ccedil;&aatilde;o."
 
-#: inc/widgets/widgets.php:379
+#: inc/widgets/widgets.php:377
 msgid "TG: Call To Action Widget"
 msgstr "TG: Chamar para Aa&ccedil;&aatilde;o Widget"
 
-#: inc/widgets/widgets.php:395
+#: inc/widgets/widgets.php:393
 msgid "Call to Action Main Text"
 msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Principal"
 
-#: inc/widgets/widgets.php:397
+#: inc/widgets/widgets.php:395
 msgid "Call to Action Additional Text"
 msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Adicional"
 
-#: inc/widgets/widgets.php:400
+#: inc/widgets/widgets.php:398
 msgid "Button Text:"
 msgstr "Texto do Bot&aatilde;o:"
 
-#: inc/widgets/widgets.php:404
+#: inc/widgets/widgets.php:402
 msgid "Button Redirect Link:"
 msgstr "Bot&aatilde;o de Link de Redirecionamento"
 
-#: inc/widgets/widgets.php:477
+#: inc/widgets/widgets.php:475
 msgid "Display Testimonial"
 msgstr "Exibe Depoimento"
 
-#: inc/widgets/widgets.php:479
+#: inc/widgets/widgets.php:477
 msgid "TG: Testimonial"
 msgstr "TG: Depoimento"
 
-#: inc/widgets/widgets.php:524
+#: inc/widgets/widgets.php:522
 msgid "Testimonial Description"
 msgstr "Descri&ccedil;&atilde;o do Depoimento"
 
-#: inc/widgets/widgets.php:527
+#: inc/widgets/widgets.php:525
 msgid "Name:"
 msgstr "Nome:"
 
-#: inc/widgets/widgets.php:530
+#: inc/widgets/widgets.php:528
 msgid "Byline:"
 msgstr "Assinatura:"
 
-#: inc/widgets/widgets.php:544
+#: inc/widgets/widgets.php:542
 msgid ""
 "Show your some pages as recent work. Best for Business Top or Bottom sidebar."
 msgstr ""
 "Mostrar algumas p&aacute;ginas como trabalho recente. Melhor para Barra de "
 "Negoc&iacute;os Lateral Superior e Inferior."
 
-#: inc/widgets/widgets.php:546
+#: inc/widgets/widgets.php:544
 msgid "TG: Featured Widget"
 msgstr "TG: Widget Destacado"
 
-#: inc/widgets/widgets.php:570
+#: inc/widgets/widgets.php:568
 msgid "Description"
 msgstr "Descri&ccedil;&atilde;o"
 
@@ -718,36 +726,40 @@ msgstr ""
 #: options.php:74
 msgid ""
 "Position Below: Display the Header image just below the site title and main "
-"menu part." #TODO
+"menu part."
 msgstr ""
+"Posi&ccedil;&atilde;o abaixo: Exibe a imagem do Cabe&ccedil;alho logo abaixo "
+"do t&iacute;tulo do site e da parte principal do "
+"menu."
 
 #: options.php:82
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: options.php:87
 msgid "Site Layout"
-msgstr ""
+msgstr "Site Leiaute"
 
 #: options.php:88
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
+"Escolha o leiaute de seu site. A mudan&ccedil;a se reflete em todo o site."
 
 #: options.php:93
 msgid "Boxed layout with content width of 1218px"
-msgstr ""
+msgstr "Leiaute caixa com largura do conte&ucute;do de 1218px"
 
 #: options.php:94
 msgid "Boxed layout with content width of 978px"
-msgstr ""
+msgstr "Leiaute caixa com largura do conte&ucute;do de 978px"
 
 #: options.php:95
 msgid "Wide layout with content width of 1218px"
-msgstr ""
+msgstr "Leiaute wide com largura do conte&ucute;do de 1218px"
 
 #: options.php:96
 msgid "Wide layout with content width of 978px"
-msgstr ""
+msgstr "Leiaute wide com largura do conte&ucute;do de 978px"
 
 #: options.php:101
 msgid "Default layout"
@@ -759,10 +771,14 @@ msgid ""
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
+"Selecione o leiaute padr&atilde;o. Este leiaute ser&acute; refletido nos
+"arquivos do site inteiro, pesquisa etc. O leiaute para uma &ucute;nica "
+"postagem e p&acute;gina pode ser controlado a partir das op&ccedil;&otilde;es "
+"abaixo."
 
 #: options.php:115
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Leiaute padr&atilde;o s&ocute; para p&acute;ginas"
 
 #: options.php:116
 msgid ""

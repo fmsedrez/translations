@@ -51,32 +51,32 @@ msgid "Comments are closed."
 msgstr "Coment&aacute;rios est&atilde;o desabilitados."
 
 #: content-blog-full-content.php:28 content-blog-image-large.php:46
-#: content-blog-image-medium.php:28 content-single.php:44 content.php:48
+#: content-blog-image-medium.php:28 content-single.php:44 content.php:51
 msgid "No Comments"
 msgstr ""
 
 #: content-blog-full-content.php:28 content-blog-image-large.php:46
-#: content-blog-image-medium.php:28 content-single.php:44 content.php:48
+#: content-blog-image-medium.php:28 content-single.php:44 content.php:51
 msgid "1 Comment"
 msgstr "1 Coment&aacute;rio"
 
 #: content-blog-full-content.php:28 content-blog-image-large.php:46
-#: content-blog-image-medium.php:28 content-single.php:44 content.php:48
+#: content-blog-image-medium.php:28 content-single.php:44 content.php:51
 msgid "% Comments"
 msgstr "% Coment&aacute;rios"
 
 #: content-blog-full-content.php:28 content-blog-image-large.php:46
-#: content-blog-image-medium.php:28 content-single.php:44 content.php:48
+#: content-blog-image-medium.php:28 content-single.php:44 content.php:51
 msgid "Comments Off"
 msgstr ""
 
 #: content-blog-full-content.php:30 content-blog-image-large.php:48
-#: content-blog-image-medium.php:30 content-single.php:46 content.php:50
+#: content-blog-image-medium.php:30 content-single.php:46 content.php:53
 msgid "Edit"
 msgstr "Editar"
 
 #: content-blog-image-large.php:54 content-blog-image-medium.php:55
-#: content.php:57 inc/widgets/widgets.php:191
+#: content.php:60 inc/widgets/widgets.php:195 inc/widgets/widgets.php:212
 msgid "Read more"
 msgstr ""
 
@@ -137,23 +137,23 @@ msgstr ""
 msgid "Theme Options"
 msgstr ""
 
-#: inc/admin/options/includes/class-options-framework-admin.php:198
+#: inc/admin/options/includes/class-options-framework-admin.php:203
 msgid "Save Options"
 msgstr ""
 
-#: inc/admin/options/includes/class-options-framework-admin.php:199
+#: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Restore Defaults"
 msgstr ""
 
-#: inc/admin/options/includes/class-options-framework-admin.php:199
+#: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Click OK to reset. Any theme settings will be lost!"
 msgstr ""
 
-#: inc/admin/options/includes/class-options-framework-admin.php:230
+#: inc/admin/options/includes/class-options-framework-admin.php:235
 msgid "Default options restored."
 msgstr ""
 
-#: inc/admin/options/includes/class-options-framework-admin.php:284
+#: inc/admin/options/includes/class-options-framework-admin.php:289
 msgid "Options saved."
 msgstr ""
 
@@ -278,44 +278,44 @@ msgstr ""
 msgid "Theme: %1$s by %2$s."
 msgstr "Tema: %1$s por %2$s."
 
-#: inc/header-functions.php:47
+#: inc/header-functions.php:64
 #, php-format
 msgid "Page %s"
 msgstr "P&aacute;agina %s"
 
-#: inc/header-functions.php:141
+#: inc/header-functions.php:159
 #, php-format
 msgid "Author: %s"
 msgstr "Autor: %s"
 
-#: inc/header-functions.php:149
+#: inc/header-functions.php:167
 #, php-format
 msgid "Day: %s"
 msgstr "Dia: %s"
 
-#: inc/header-functions.php:152
+#: inc/header-functions.php:170
 #, php-format
 msgid "Month: %s"
 msgstr "M&ecirc;s: %s"
 
-#: inc/header-functions.php:155
+#: inc/header-functions.php:173
 #, php-format
 msgid "Year: %s"
 msgstr "Ano: %s"
 
-#: inc/header-functions.php:158 sidebar-left.php:29 sidebar.php:29
+#: inc/header-functions.php:176 sidebar-left.php:29 sidebar.php:29
 msgid "Archives"
 msgstr "Arquivos"
 
-#: inc/header-functions.php:163
+#: inc/header-functions.php:181
 msgid "Page NOT Found"
 msgstr ""
 
-#: inc/header-functions.php:166
+#: inc/header-functions.php:184
 msgid "Search Results"
 msgstr ""
 
-#: inc/header-functions.php:199
+#: inc/header-functions.php:217
 msgid "You are here:"
 msgstr ""
 
@@ -375,77 +375,86 @@ msgstr ""
 msgid "TG: Services"
 msgstr ""
 
-#: inc/widgets/widgets.php:126 inc/widgets/widgets.php:239
+#: inc/widgets/widgets.php:128
+msgid "Check to display the Featured Image"
+msgstr ""
+
+#: inc/widgets/widgets.php:129
+msgid ""
+"<strong>Note:</strong> Featured Image will overwrite the fontawesome icon."
+msgstr ""
+
+#: inc/widgets/widgets.php:133 inc/widgets/widgets.php:261
 msgid "Page"
 msgstr "P&aacute;gina"
 
-#: inc/widgets/widgets.php:211
+#: inc/widgets/widgets.php:233
 msgid ""
 "Use this widget to show recent work, portfolio or any pages as your wish "
 "( Business Layout )"
 msgstr ""
 
-#: inc/widgets/widgets.php:213
+#: inc/widgets/widgets.php:235
 msgid "TG: Featured Widget"
 msgstr "TG: Widget Destacado"
 
-#: inc/widgets/widgets.php:232 inc/widgets/widgets.php:538
+#: inc/widgets/widgets.php:254 inc/widgets/widgets.php:560
 msgid "Title:"
 msgstr "T&iacute;tulo"
 
-#: inc/widgets/widgets.php:322
+#: inc/widgets/widgets.php:344
 msgid "Use this widget to show the call to action section"
 msgstr ""
 
-#: inc/widgets/widgets.php:324
+#: inc/widgets/widgets.php:346
 msgid "TG: Call To Action Widget"
 msgstr "TG: Chamar para Aa&ccedil;&aatilde;o Widget"
 
-#: inc/widgets/widgets.php:340
+#: inc/widgets/widgets.php:362
 msgid "Call to Action Main Text"
 msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Principal"
 
-#: inc/widgets/widgets.php:342
+#: inc/widgets/widgets.php:364
 msgid "Call to Action Additional Text"
 msgstr "Chamar para Aa&ccedil;&aatilde;o Texto Adicional"
 
-#: inc/widgets/widgets.php:345
+#: inc/widgets/widgets.php:367
 msgid "Button Text:"
 msgstr "Texto do Bot&aatilde;o:"
 
-#: inc/widgets/widgets.php:349
+#: inc/widgets/widgets.php:371
 msgid "Button Redirect Link:"
 msgstr "Bot&aatilde;o de Link de Redirecionamento"
 
-#: inc/widgets/widgets.php:426
+#: inc/widgets/widgets.php:448
 msgid "Display Testimonial"
 msgstr "Exibe Depoimento"
 
-#: inc/widgets/widgets.php:428
+#: inc/widgets/widgets.php:450
 msgid "TG: Testimonial"
 msgstr "TG: Depoimento"
 
-#: inc/widgets/widgets.php:541 inc/widgets/widgets.php:559
+#: inc/widgets/widgets.php:563 inc/widgets/widgets.php:581
 msgid "Name:"
 msgstr "Nome:"
 
-#: inc/widgets/widgets.php:544 inc/widgets/widgets.php:562
+#: inc/widgets/widgets.php:566 inc/widgets/widgets.php:584
 msgid "Image link:"
 msgstr ""
 
-#: inc/widgets/widgets.php:547 inc/widgets/widgets.php:565
+#: inc/widgets/widgets.php:569 inc/widgets/widgets.php:587
 msgid "Testimonial Description"
 msgstr "Descri&ccedil;&atilde;o do Depoimento"
 
-#: inc/widgets/widgets.php:550 inc/widgets/widgets.php:568
+#: inc/widgets/widgets.php:572 inc/widgets/widgets.php:590
 msgid "Byline:"
 msgstr "Assinatura:"
 
-#: inc/widgets/widgets.php:553 inc/widgets/widgets.php:571
+#: inc/widgets/widgets.php:575 inc/widgets/widgets.php:593
 msgid "Company:"
 msgstr ""
 
-#: inc/widgets/widgets.php:556 inc/widgets/widgets.php:574
+#: inc/widgets/widgets.php:578 inc/widgets/widgets.php:596
 msgid "Company link:"
 msgstr ""
 
@@ -563,15 +572,16 @@ msgstr ""
 
 #: options.php:95
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: options.php:100
 msgid "Site Layout"
-msgstr ""
+msgstr "Site Leiaute"
 
 #: options.php:101
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
+"Escolha o leiaute de seu site. A mudan&ccedil;a se reflete em todo o site."
 
 #: options.php:106
 msgid "Boxed layout"
@@ -591,10 +601,14 @@ msgid ""
 "search etc. The layout for a single post and page can be controlled from "
 "below options."
 msgstr ""
+"Selecione o leiaute padr&atilde;o. Este leiaute ser&acute; refletido nos
+"arquivos do site inteiro, pesquisa etc. O leiaute para uma &ucute;nica "
+"postagem e p&acute;gina pode ser controlado a partir das op&ccedil;&otilde;es "
+"abaixo."
 
 #: options.php:126
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Leiaute padr&atilde;o s&ocute; para p&acute;ginas"
 
 #: options.php:127
 msgid ""
@@ -742,6 +756,10 @@ msgstr ""
 
 #: options.php:277
 msgid "If you like our work. Buy us a beer."
+msgstr ""
+
+#: searchform.php:12 searchform.php:13 searchform.php:15
+msgid "Search"
 msgstr ""
 
 #: sidebar-left.php:36 sidebar.php:36

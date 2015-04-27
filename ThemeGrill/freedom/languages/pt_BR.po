@@ -493,15 +493,16 @@ msgstr "<a href=\"%1$s\">Clique Aqui</a>"
 
 #: options.php:65
 msgid "Design"
-msgstr ""
+msgstr "Design"
 
 #: options.php:70
 msgid "Site Layout"
-msgstr ""
+msgstr "Site Leiaute"
 
 #: options.php:71
 msgid "Choose your site layout. The change is reflected in whole site."
 msgstr ""
+"Escolha o leiaute de seu site. A mudan&ccedil;a se reflete em todo o site."
 
 #: options.php:76
 msgid "Boxed layout"
@@ -521,10 +522,14 @@ msgid ""
 "categories, search page etc. The layout for a single post and page can be "
 "controlled from below options."
 msgstr ""
+"Selecione o leiaute padr&atilde;o. Este leiaute ser&acute; refletido nos
+"arquivos do site inteiro, pesquisa etc. O leiaute para uma &ucute;nica "
+"postagem e p&acute;gina pode ser controlado a partir das op&ccedil;&otilde;es "
+"abaixo."
 
 #: options.php:96
 msgid "Default layout for pages only"
-msgstr ""
+msgstr "Leiaute padr&atilde;o s&ocute; para p&acute;ginas"
 
 #: options.php:97
 msgid ""
