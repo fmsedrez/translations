@@ -135,85 +135,87 @@ msgstr ""
 #: inc/admin/options/includes/class-options-framework-admin.php:91
 #: inc/admin/options/includes/class-options-framework-admin.php:92
 msgid "Theme Options"
-msgstr ""
+msgstr "Op&ccedil;&otilde;es do Tema"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:203
 msgid "Save Options"
-msgstr ""
+msgstr "Salvar Op&ccedil;&otilde;es"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Restore Defaults"
-msgstr ""
+msgstr "Restaurar Padr&otilde;es"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:204
 msgid "Click OK to reset. Any theme settings will be lost!"
 msgstr ""
+"Pressione OK para restaurar. Qualquer configura&ccedil;&atilde;o do tema "
+"ser&aacute; perdida!"
 
 #: inc/admin/options/includes/class-options-framework-admin.php:235
 msgid "Default options restored."
-msgstr ""
+msgstr "Op&ccedil;&otilde;es padr&otilde;es restauradas."
 
 #: inc/admin/options/includes/class-options-framework-admin.php:289
 msgid "Options saved."
-msgstr ""
+msgstr "Op&ccedil;&otilde;es salvas."
 
 #: inc/admin/options/includes/class-options-media-uploader.php:62
 msgid "No file chosen"
-msgstr ""
+msgstr "Nenhum arquivo escolhido"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:65
 #: inc/admin/options/includes/class-options-media-uploader.php:118
 msgid "Upload"
-msgstr ""
+msgstr "Carregar"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:67
 #: inc/admin/options/includes/class-options-media-uploader.php:119
 msgid "Remove"
-msgstr ""
+msgstr "Remover"
 
 #: inc/admin/options/includes/class-options-media-uploader.php:70
 msgid "Upgrade your version of WordPress for full media support."
-msgstr ""
+msgstr "Atualize a sua vers&atilde;o do WordPress para suporte completo de m&iacute;dia."
 
 #: inc/admin/options/includes/class-options-media-uploader.php:94
 msgid "View File"
-msgstr ""
+msgstr "Ver arquivo"
 
 #: inc/admin/options/includes/class-options-sanitization.php:316
 msgid "No Repeat"
-msgstr ""
+msgstr "Ns&atilde;o Repetir"
 
 #: inc/admin/options/includes/class-options-sanitization.php:317
 msgid "Repeat Horizontally"
-msgstr ""
+msgstr "Repetir Horizontalmente"
 
 #: inc/admin/options/includes/class-options-sanitization.php:318
 msgid "Repeat Vertically"
-msgstr ""
+msgstr "Repetir Verticalmente"
 
 #: inc/admin/options/includes/class-options-sanitization.php:319
 msgid "Repeat All"
-msgstr ""
+msgstr "Repetir Todas"
 
 #: inc/admin/options/includes/class-options-sanitization.php:331
 msgid "Top Left"
-msgstr ""
+msgstr "Superior Esquerdo"
 
 #: inc/admin/options/includes/class-options-sanitization.php:332
 msgid "Top Center"
-msgstr ""
+msgstr "Superior Centralizado"
 
 #: inc/admin/options/includes/class-options-sanitization.php:333
 msgid "Top Right"
-msgstr ""
+msgstr "Superior Direito"
 
 #: inc/admin/options/includes/class-options-sanitization.php:334
 msgid "Middle Left"
-msgstr ""
+msgstr "Superior Direito"
 
 #: inc/admin/options/includes/class-options-sanitization.php:335
 msgid "Middle Center"
-msgstr ""
+msgstr "Meio Centralizado"
 
 #: inc/admin/options/includes/class-options-sanitization.php:336
 msgid "Middle Right"
